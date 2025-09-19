@@ -1,0 +1,69 @@
+{
+  "id": "celtic-cross",
+  "name": "Celtic Corss",
+  "nameKR": "켈틱 크로스",
+  "cardCount": 10,
+  "description": " ",
+  "positions": [
+    {
+      "id": 1,
+      "name": "Present Situation",
+      "nameKr": "현재 상황",
+      "description": "현재의 핵심 이슈"
+    },
+    {
+      "id": 2,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 3,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 4,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 5,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 6,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 7,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 8,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 9,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 10,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    }
+  ]
+}

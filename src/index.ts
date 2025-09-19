@@ -2,6 +2,8 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 
+import spreadRoutes from './routes/spread.routes'
+
 dotenv.config();
 
 const app = express();
@@ -12,6 +14,12 @@ app.use(cors({
 }));
 
 app.use(express.json());
+
+app.use('/api/spreads', spreadRoutes);
+
+
+
+
 
 app.get('/api/health', (_req, res) => {
   res.json({ status: 'OK', message: 'Dinatarot is running dayo' });

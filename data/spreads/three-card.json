@@ -1,0 +1,27 @@
+{
+  "id": "three-card",
+  "name": "Three Card Spread",
+  "nameKR": "세 장 스프레드",
+  "cardCount": 3,
+  "description": "과거, 현재, 미래를 보는 기본적인 스프레드",
+  "positions": [
+    {
+      "id": 1,
+      "name": "Past",
+      "nameKr": "과거",
+      "description": " "
+    },
+    {
+      "id": 2,
+      "name": "Present",
+      "nameKr": "현재",
+      "description": " "
+    },
+    {
+      "id": 3,
+      "name": "Future",
+      "nameKr": "미래",
+      "description": " "
+    }
+  ]
+}

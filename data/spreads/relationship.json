@@ -1,0 +1,51 @@
+{
+  "id": "relationship",
+  "name": "Relationship",
+  "nameKR": "관계 타로 스프레드",
+  "cardCount": 7,
+  "description": " ",
+  "positions": [
+    {
+      "id": 1,
+      "name": "Present Situation",
+      "nameKr": "현재 상황",
+      "description": "현재의 핵심 이슈"
+    },
+    {
+      "id": 2,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 3,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 4,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 5,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 6,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    },
+    {
+      "id": 7,
+      "name": " ",
+      "nameKr": " ",
+      "description": " "
+    }
+  ]
+}
