@@ -1,3 +1,5 @@
+import { SpreadType } from "./spread.model";
+
 export interface TarotCard {
   id: number;
   name: string;
@@ -24,5 +26,18 @@ export interface DrawnCard {
   card: TarotCard;
   position: number;
   positionName: string;
-  isReversed: boolean;
+  isForward: boolean;
+}
+
+export interface CardDrawResponse {
+  success: boolean;
+  data: {
+    spread: SpreadType;
+    cards: DrawnCard[];
+  };
+  message: string;
+}
+
+export interface CardDrawRequest {
+  spreadType: string;
 }

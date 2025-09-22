@@ -23,9 +23,9 @@ export class LLMService {
     spreadType: string,
     relevantContext: string
   ): Promise<string> {
-    const cardDetails = drawnCards.map(dc => 
-        `${dc.positionName}: ${dc.card.nameKr} 
-        (${dc.isReversed ? '역방향' : '정방향'})`
+    const cardDetails = drawnCards.map(dc =>
+        `${dc.positionName}: ${dc.card.nameKr}
+        (${dc.isForward ? '정방향' : '역방향'})`
       ).join('\n');
 
       const prompt = `

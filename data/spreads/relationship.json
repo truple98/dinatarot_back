@@ -1,9 +1,9 @@
 {
   "id": "relationship",
   "name": "Relationship",
-  "nameKR": "관계 타로 스프레드",
+  "nameKr": "관계 타로 스프레드",
   "cardCount": 7,
-  "description": " ",
+  "description": "7장의 카드로 관계의 진실을 \n들여다 보는거다요.",
   "positions": [
     {
       "id": 1,

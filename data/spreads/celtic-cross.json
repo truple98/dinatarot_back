@@ -1,9 +1,9 @@
 {
   "id": "celtic-cross",
   "name": "Celtic Corss",
-  "nameKR": "켈틱 크로스",
+  "nameKr": "켈틱 크로스",
   "cardCount": 10,
-  "description": " ",
+  "description": "10장의 카드로 상황을 깊이 \n 분석해보는거다요.",
   "positions": [
     {
       "id": 1,

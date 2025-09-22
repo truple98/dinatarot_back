@@ -13,7 +13,7 @@ export class SpreadService {
       const filePath = path.join(this.spreadsPath, file);
       if (await fs.pathExists(filePath)) {
         const spreadData = await fs.readJson(filePath);
-        this.spreads.set(spreadData.type, spreadData);
+        this.spreads.set(spreadData.id, spreadData);
       }
     }
   }

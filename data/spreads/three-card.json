@@ -1,9 +1,9 @@
 {
   "id": "three-card",
   "name": "Three Card Spread",
-  "nameKR": "세 장 스프레드",
+  "nameKr": "세 장 스프레드",
   "cardCount": 3,
-  "description": "과거, 현재, 미래를 보는 기본적인 스프레드",
+  "description": "간단하고 명확하게 3장의 카드로 \n과거와 현재, 미래를 알아보는거다요.",
   "positions": [
     {
       "id": 1,

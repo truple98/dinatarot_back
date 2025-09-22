@@ -12,17 +12,11 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
-
-
-
-// CORS
-
 app.use(cors({
   origin: process.env.CORS_ORIGIN || 'http://localhost:5173'
 }));
 
 // ROUTES
-
 app.use('/api/spreads', spreadRoutes);
 app.use('/api/cards', cardRoutes);
 app.use('/api/readings', readingRoutes);
