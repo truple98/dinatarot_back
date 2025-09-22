@@ -6,9 +6,18 @@ export class CardService {
   private cardsPath = path.join(__dirname, '../../data/cards/json/tarot-cards.json');
   private cards: TarotCard[] = [];
 
+  constructor() {
+    this.loadCards();
+  }
+
   async loadCards(): Promise<void> {
-    const data = await fs.readJson(this.cardsPath);
-    this.cards = data.cards;
+    try {
+      const data = await fs.readJson(this.cardsPath);
+      this.cards = data.cards;
+    } catch (error) {
+      console.error('카드 로드 실패다요:', error);
+      this.cards = [];
+    }
   }
 
   getAllCards(): TarotCard[] {

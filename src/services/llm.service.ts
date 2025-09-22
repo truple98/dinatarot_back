@@ -2,12 +2,18 @@ import OpenAI from "openai";
 import { DrawnCard } from "../models/card.model";
 
 export class LLMService {
-  private openai: OpenAI;
+  private openai: OpenAI | null = null;
 
-  constructor() {
-    this.openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY
-    });
+  private getOpenAI(): OpenAI {
+    if (!this.openai) {
+      const apiKey = process.env.OPENAI_API_KEY;
+      if (!apiKey) {
+        throw new Error('OPENAI_API_KEY 환경변수 설정을 검토해 달라요...');
+      }
+      this.openai = new OpenAI({ apiKey });
+    }
+
+    return this.openai;
   }
 
   async generateTarotReading(
@@ -60,7 +66,8 @@ export class LLMService {
       `;
 
     try {
-      const response = await this.openai.chat.completions.create({
+      const openai = this.getOpenAI();
+      const response = await openai.chat.completions.create({
         model: 'gpt-4o-mini',
         messages: [
           {
@@ -76,7 +83,10 @@ export class LLMService {
         temperature: 0.7
       });
 
-      return response.choices[0].message.content || '해석 생성에 실패했다요...';
+      if (!response.choices?.[0].message?.content) {
+        throw new Error('해석 생성에 실패했다요...');
+      }
+      return response.choices[0].message.content;
     } catch (error) {
       console.error('LLM 응답 생성을 실패했다요...:', error);
       throw new Error('타로 해석 생성에 실패했다요...');
