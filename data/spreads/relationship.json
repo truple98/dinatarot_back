@@ -7,44 +7,44 @@
   "positions": [
     {
       "id": 1,
-      "name": "Present Situation",
-      "nameKr": "현재 상황",
-      "description": "현재의 핵심 이슈"
+      "name": " ",
+      "nameKr": "나",
+      "description": " "
     },
     {
       "id": 2,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "상대방",
       "description": " "
     },
     {
       "id": 3,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "상대방에 대한 나의 생각",
       "description": " "
     },
     {
       "id": 4,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "나에 대한 상대방의 생각",
       "description": " "
     },
     {
       "id": 5,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "관계에 대한 나의 생각",
       "description": " "
     },
     {
       "id": 6,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "관계에 대한 상대방의 생각",
       "description": " "
     },
     {
       "id": 7,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "현재 상황",
       "description": " "
     }
   ]

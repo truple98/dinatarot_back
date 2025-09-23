@@ -1,10 +1,8 @@
-import { SpreadType } from "./spread.model";
-
 export interface TarotCard {
   id: number;
   name: string;
   nameKr: string;
-  suit?: 'major' | 'cups' | 'wands' | 'swords' | 'pentacles';
+  suit: string | null;
   arcana: 'major' | 'minor';
   upright: {
     keywords: string[];
@@ -17,27 +15,18 @@ export interface TarotCard {
     description: string;
   };
   imageFile: string;
-  element?: 'fire' | 'water' | 'air' | 'earth';
+  element?: string;
   planet?: string;
   zodiac?: string;
 }
 
+export interface TarotCardsData {
+  cards: TarotCard[];
+}
+
 export interface DrawnCard {
-  card: TarotCard;
+  cardId: number;
   position: number;
   positionName: string;
   isForward: boolean;
-}
-
-export interface CardDrawResponse {
-  success: boolean;
-  data: {
-    spread: SpreadType;
-    cards: DrawnCard[];
-  };
-  message: string;
-}
-
-export interface CardDrawRequest {
-  spreadType: string;
 }

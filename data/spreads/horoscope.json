@@ -7,74 +7,74 @@
   "positions": [
     {
       "id": 1,
-      "name": "Present Situation",
-      "nameKr": "현재 상황",
-      "description": "현재의 핵심 이슈"
+      "name": " ",
+      "nameKr": "자아와 정체성",
+      "description": " "
     },
     {
       "id": 2,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "재물과 소유",
       "description": " "
     },
     {
       "id": 3,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "의사소통과 학습",
       "description": " "
     },
     {
       "id": 4,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "가정과 뿌리",
       "description": " "
     },
     {
       "id": 5,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "창조와 자녀",
       "description": " "
     },
     {
       "id": 6,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "일상과 건강",
       "description": " "
     },
     {
       "id": 7,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "파트너십과 관계",
       "description": " "
     },
     {
       "id": 8,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "변화와 공유자원",
       "description": " "
     },
     {
       "id": 9,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "철학과 여행",
       "description": " "
     },
     {
       "id": 10,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "명예와 커리어",
       "description": " "
     },
     {
       "id": 11,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "우정과 꿈",
       "description": " "
     },
     {
       "id": 12,
       "name": " ",
-      "nameKr": " ",
+      "nameKr": "잠재의식과 영성",
       "description": " "
     }
   ]

@@ -1,74 +1,138 @@
 import { Request, Response } from 'express';
+import fs from 'fs-extra';
+import path from 'path';
+import { TarotCardsData, TarotCard ,DrawnCard } from '../models/card.model';
 import { LLMService } from '../services/llm.service';
+import { RAGService } from '../services/rag.service';
+
+interface InterpretRequest {
+  userName: string;
+  userConcern: string;
+  spreadType: string;
+  drawnCards: DrawnCard[];
+}
+
+interface InterpretResponse {
+  success: boolean;
+  data?: {
+    userName: string;
+    userConcern: string;
+    spreadType: string;
+    drawnCards: DrawnCard[];
+    interpretation: string;
+  };
+  message: string;
+};
 
 export class ReadingController {
   private llmService: LLMService;
+  private ragService: RAGService;
+  private cardsData: TarotCardsData | null = null;
+  private dataLoadPromise: Promise<void> | null = null;
 
   constructor() {
     this.llmService = new LLMService();
+    this.ragService = new RAGService();
+    this.dataLoadPromise = this.loadData();
   }
 
-  async generateReading(req: Request, res: Response): Promise<void> {
+  private async loadData(): Promise<void> {
     try {
-      const { cards, spread, question, userName, userConcern } = req.body;
+      const cardsPath = path.join(process.cwd(), 'data/cards/tarot-cards.json');
+      this.cardsData = await fs.readJson(cardsPath) as TarotCardsData;
 
-      if (!cards || !Array.isArray(cards) || cards.length === 0) {
-        res.status(400).json({
+      // RAG 서비스 초기화
+      await this.ragService.initialize();
+      console.log('RAG 서비스 초기화 완료');
+    } catch (error) {
+      console.error('데이터 로딩 실패:', error);
+      throw error;
+    }
+  }
+
+  async interpretTarot(req: Request, res: Response): Promise<void> {
+    try {
+      if (this.dataLoadPromise) {
+        await this.dataLoadPromise;
+        this.dataLoadPromise = null;
+      }
+
+      const { userName, userConcern, spreadType, drawnCards }: InterpretRequest = req.body;
+
+
+      if (!userName || !userConcern || !spreadType || !drawnCards) {
+        const response : InterpretResponse = {
           success: false,
-          message: '카드 정보를 제공해야 한다요!'
-        });
+          message: '필수 정보가 누락되었다요!'
+        };
+        res.status(400).json(response);
         return;
       }
 
-      if (!spread) {
-        res.status(400).json({
+      if (!this.cardsData) {
+        const response: InterpretResponse = {
           success: false,
-          message: '스프레드 정보를 제공해야 한다요!'
-        });
+          message: '카드 데이터 로딩에 실패했다요...'
+        };
+        res.status(500).json(response);
         return;
       }
 
-      if (!userName) {
-        res.status(400).json({
-          success: false,
-          message: '이름을 입력해야 한다요!'
-        });
-        return;
+      const drawnCardsWithDetails = drawnCards.map((drawn: DrawnCard) => {
+        const card = this.cardsData!.cards.find((card: TarotCard) => card.id === drawn.cardId);
+        if (!card) {
+          throw new Error(`카드 ID ${drawn.cardId}를 찾을 수 없다요... 유효한 카드 ID(0-77)를 달라요!`);
+        }
+        return {
+          cardId: drawn.cardId,
+          position: drawn.position,
+          positionName: drawn.positionName,
+          isForward: drawn.isForward,
+          card
+        };
+      });
+
+      const cardNames = drawnCardsWithDetails.map(dc => dc.card.nameKr);
+      let relevantContext = '';
+
+      try {
+        relevantContext = await this.ragService.getRelevantContext(userConcern, cardNames);
+      } catch (error) {
+        console.error('RAG 컨텍스트 생성 실패, 기본 해석으로 진행:', error);
+        relevantContext = '';
       }
 
-      if (!userConcern) {
-        res.status(400).json({
-          success: false,
-          message: '고민이나 질문을 입력해야 한다요!'
-        });
-        return;
-      }
 
-      const reading = await this.llmService.generateTarotReading(
-        req.body.userName,
-        req.body.userConcern,
-        cards,
-        spread.nameKr || spread.type,
-        " "
+      const interpretation = await this.llmService.generateTarotReading(
+        userName,
+        userConcern,
+        drawnCardsWithDetails,
+        spreadType,
+        relevantContext
       );
 
-      res.json({
+      const response: InterpretResponse = {
         success: true,
         data: {
-          reading,
-          cards,
-          spread,
-          question: question || null,
-          timestamp: new Date().toISOString()
+          userName,
+          userConcern,
+          spreadType,
+          drawnCards,
+          interpretation
         },
-        message: '타로 해석을 생성했다요!'
-      });
+        message: '타로 해석이 완료되었다요!'
+      };
+
+      res.setHeader('Content-Type', 'application/json; charset=utf-8');
+      res.json(response);
+
     } catch (error) {
-      console.error('타로 해석 생성을 실패했다요...:', error);
-      res.status(500).json({
+      console.error('타로 해석 실패:', error);
+      const response: InterpretResponse = {
         success: false,
-        message: '타로 해석 생성에 실패했다요...'
-      });
+        message: '타로 해석에 실패했다요...'
+      };
+      res.status(500).json(response);
     }
   }
 }

@@ -1,0 +1,2164 @@
+{
+  "cards": [
+    {
+      "id": 0,
+      "name": "The Fool",
+      "nameKr": "바보",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "절대적 자유", "자유", "새로운 시작", "용기", "최적의 행복", "소원 카드", "신념의 도약"
+        ],
+        "meaning": "It is an interesting point that at the moment of chaos you are most truly free. It may not feel that way at the time, but once you lose everything, you gain even more. Without the burdens of luxuries or (self-imposed) responsibilities to tie you down, you can go anywhere you desire. Think on this for a moment. This is why the “chaos star” has eight arrows. This card represents that freedom. You do not have to “lose everything” to find this freedom in yourself. You simply need to click your heels together three... er, take a deep breath and just say “ it!” (use your favorite term). You find joy in life by pursuing what is important to you, not your boss, or what your parents want you to do, or how your friends “think you should behave.” Note how he is completely at peace with whatever befal",
+        "description": "A gaily dressed young man traverses the heights of his world. His burden is light, the Sun is shining, and the rose in his hand still holds its scent. He literally is “on top of the world,” lost in his own joyous meditations. His next step may be his last, or perhaps he may have mastered the ability to walk on air. Either way, he is simply too in love with whatever occupies his mind to pay attention to such trivialities. He has found optimal bliss. Even his fluffy white dog’s happy barks do not "
+      },
+      "reversed": {
+        "keywords": [
+          "실수", "두려움", "지나친 분석", "자기 제한", "결단력 부족", "망설임", "기회 상실"
+        ],
+        "meaning": "Missteps and fear brought about by overanalysis. Fear of the unknown. Selflimitation forces one to remain in whatever prison they have created for themselves. Inability to act decisively. Check aspecting cards to see who and what is helping create (or enforce) this limitation. Open it up to reveal how this can be overcome. Hesitance almost always means opportunities missed. Also: If The Fool steps halfway, trying to be both on the cliff and off, he will almost certainly fall. Don’t do that.",
+        "description": "Missteps and fear brought about by overanalysis. Fear of the unknown. Selflimitation forces one to remain in whatever prison they have created for themselves. Inability to act decisively. Check aspect"
+      },
+      "imageFile": "0.jpg",
+      "element": "air",
+      "planet": "Uranus"
+    },
+    {
+      "id": 1,
+      "name": "The Magician",
+      "nameKr": "마법사",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "창조", "헌신", "결단", "주도권", "자신감", "자원 활용", "확고한 의지"
+        ],
+        "meaning": "This card has a lot in common with the Ace of Wands. It is the act of, and power to, manifest “something from nothing” (which is an esoteric misnomer we use only for the sake of convenience in teaching). This is the card of purposeful creation and destruction, not some random act of the gods or circumstance. This card represents the act of commitment. Pair this up with a “minor” Arcana card to see what is being “decided and acted upon.” This card also shows the autonomy of self-governance and the reliability of assumed responsibility. There is no hesitation in this card. It is not a card of action per se, but the force behind action or the command presence to instill action to follow along a prescribed path. When you see this card, see decisions, initiations (the commencement of activities",
+        "description": "A master practitioner holds his double-ended candle high and simultaneously points to the earth below him (multiple meanings, but the most obvious in Tarot teaching texts is “as above, so below” indicating the power of this man and the usage of this card; for more information ask your teacher or enroll in a mystery school). His tools lay before him on his worktable, being the sum of all worldly endeavors, and flowered vines and plants of all sorts surround him, reminding us that he is one with N"
+      },
+      "reversed": {
+        "keywords": [
+          "미숙함", "우유부단", "약한 의지", "약함", "보수 없는 희생", "비겁함", "거짓"
+        ],
+        "meaning": "Unskilled labor. Indecisive person or action. Weak will. Sacrifice without reward. Cowardly behavior. When reversed this card indicates an untrained, or incompletely trained “expert,” a “falseprophet” if you will. Bad advice from a fool (not “The Fool”). It is sacrilege and anathema to the wisdom and knowledge that come from careful and patient study and practice. It unearths shoddy workmanship and even scandal brought about by laziness pressed into authority. This is a very disturbing card reve",
+        "description": "Unskilled labor. Indecisive person or action. Weak will. Sacrifice without reward. Cowardly behavior. When reversed this card indicates an untrained, or incompletely trained “expert,” a “falseprophet”"
+      },
+      "imageFile": "1.jpg",
+      "element": "air",
+      "planet": "Mercury"
+    },
+    {
+      "id": 2,
+      "name": "The High Priestess",
+      "nameKr": "여교황",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "행동",
+          "직감",
+          "영감"
+        ],
+        "meaning": "Intuition, imagination, dreams, creative spark or inspiration. She brings new understandings of situations through listening, not acting. She is communion, prayer, knowing when to seek guidance and doing so. As The Magician is active psychic power channeled outward, she is receptive information gained, as well as active psychic power of calling in assistance. As forceful and direct as The Magician is, his partner is just as oblique. She “uncovers, or reveals” where he “takes action.” Her abilities lie in everyone. They exist at all times in our subconscious minds and are our direct connection to whatever we individually call “God.” This card shows or advises reflection, quiet listening, intuitive work, seeking out expert knowledge and assistance (both on a “higher plane’”and physically). P",
+        "description": "Pomegranates. Our lady of mystery sits on a simple throne which is little more than a block, with pillars left and right supporting the weave of pomegranates behind her, masking off the evening sea of her domain. Some argue the crown she wears is that of the triple goddess. It is, in fact, a pearl (see below), as the moon is already indicated at her feet, aswim in her flowing tresses of watery imagination. The equilateral cross (or its later Christian adaptation) marks her purity as certainly as"
+      },
+      "reversed": {
+        "keywords": [
+          "혼란",
+          "약함",
+          "남용",
+          "거짓"
+        ],
+        "meaning": "As a mental state or physical condition—confusion, alcoholism and drug abuse/overdose, paranoia and superstition. Disillusion (especially with 6 of Swords, 7 of Coins, etc.) spiritual weakness, clouded judgment, false spirituality (look at aspecting cards), psychosis, fanaticism and extremism, not doing one’s research or homework, abduction, buried treasures, and bad pomegranates.",
+        "description": "As a mental state or physical condition—confusion, alcoholism and drug abuse/overdose, paranoia and superstition. Disillusion (especially with 6 of Swords, 7 of Coins, etc.) spiritual weakness, cloude"
+      },
+      "imageFile": "2.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 3,
+      "name": "The Empress",
+      "nameKr": "여황제",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "사랑"
+        ],
+        "meaning": "Pregnancy. “Congratulations!” Also indicative of mothers if associated with supporting “minor” Arcana cards. See this as the concept of, the energy and actuality of motherhood, rather than any one person in all but rare cases. Identify the person by finding aspecting cards or by opening this card up. As a verb, this card indicates applied compassion, caring, the act of nurturing, and caretaking. This could just as easily be nursing along a new business venture with great care and love as it could be the act of “taking in a stray.” The emphasis here is the sincere care and attention given by the person behind these kind acts. As a quality in a person, it speaks most highly: that rare quality of genuine compassion, consideration, grace, beauty (inner and most likely outer, to some extent, as",
+        "description": "Our celestial lady sits comfortably on a cushioned throne. In case you were wondering, this is what “Mother Nature” looks like (at least according to one P.C. Smith). The goddess symbolism of this card is unmistakable, from her Venusian throne (with extra cushy pillows!) to the wheat (sacred to Demeter, mother of Persephone; see The High Priestess), the crown of stars, more pomegranates... Her presence brings life to all. Trees are alive with leaves and fruits, water flows freely, and the sun sh"
+      },
+      "reversed": {
+        "keywords": [
+          "거짓"
+        ],
+        "meaning": "Lack of support. Alienation, emotional despair, heartlessness, insecurity, instability. “Unpleasant” woman. False loyalties or lack of morals. Adultery or divorce (verify this through aspecting cards). Environmental destruction. Miscarriage (verify before saying anything).",
+        "description": "Lack of support. Alienation, emotional despair, heartlessness, insecurity, instability. “Unpleasant” woman. False loyalties or lack of morals. Adultery or divorce (verify this through aspecting cards)"
+      },
+      "imageFile": "3.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 4,
+      "name": "The Emperor",
+      "nameKr": "황제",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "결정"
+        ],
+        "meaning": "Government. Any male authority figure: boss, judge, executive, decision maker, father, Cardinal (priest). This is the card of judgment or command (lawsuit, parking ticket being issued, summons, meeting with a “superior,” etc.) and also of the person or authority behind that command or judgment (e.g., “the IRS”). In still other words: it is the act of being told what to do, and the person who tells you to do it. As harsh as this may seem at first, it is this very structural dominance that makes this the card representational of the person or authority you would go to when you seek grievances against oppression or abuse. As a quality in a person, this card speaks of leadership ability, resoluteness of mind, capable use of logic and command-decision ability. This is not a person easily swayed",
+        "description": "Quick! What do The Emperor and The Devil have in common? (Hint: They are both allegories for authority figures and you have probably worked for both of them at one point.) Okay, so this guy is not “pleasant,” but he is “the boss.” He sits on his stone throne bearing the symbols of Aries (the astrological sign, not the god). He is the prime patriarch in the Tarot. His rule supersedes even the Kings of all of the suits because the emperor in any feudal “empire” is the overlord, not just the reigni"
+      },
+      "reversed": {
+        "keywords": [
+          "남용"
+        ],
+        "meaning": "Tyrants, dictators, corrupt public officials, vastly overpaid bosses. Also overregulation of a situation, micro-management, abuse of power and authority.",
+        "description": "Tyrants, dictators, corrupt public officials, vastly overpaid bosses. Also overregulation of a situation, micro-management, abuse of power and authority."
+      },
+      "imageFile": "4.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 5,
+      "name": "The Hierophant",
+      "nameKr": "교황",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "Orthodoxy—doing things “by the book,” and only by the book. Strict regimen. Morals and dogma. Social conservatism, conformity, institutionalism, obedience to tradition. Being preached to by someone either in authority, or by someone who presumes authority. Conversely: Professors, lecturers, priests (male or female), guidance counselors, or the act of receiving advice from any of these qualified experts. Higher education (only if aspected by supporting cards).",
+        "description": "The word hierophant comes to us from ancient Greece and our favorite mother daughter team (Demeter and Persephone—is there anything they can’t accomplish?) and the priests (female and male) who guided the faithful into the “parts holy.” If you want the long version, you are just going to have to join the mystery school, so we will simply state here that The Hierophant has been “Christianized” (like so many of the Tarot concepts) to reflect the beliefs popular at the time of its creation. This ca"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "The act of following tradition unquestioningly. Fundamentalism. Rule-mongering, bureaucracy, proselytization, browbeating, excommunication.",
+        "description": "The act of following tradition unquestioningly. Fundamentalism. Rule-mongering, bureaucracy, proselytization, browbeating, excommunication."
+      },
+      "imageFile": "5.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 6,
+      "name": "The Lovers",
+      "nameKr": "연인",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "의지력",
+          "사랑"
+        ],
+        "meaning": "Partnership, bonding, love, marriage, soul mates, deep lasting friendships. When you see this card in a reading, see it as a concept and look to see how it ties into other cards. Occasionally this will show up as an event, but more often it will need one or more “minor” Arcana cards to help clarify exactly what is coming to pass. This card’s energy is so vast and sweeping that it is best to interpret it through several other clarifying cards. When you are facing a client in a reading and this card comes up anywhere, the first thing they will do is point directly at this card and ask you what it means. What they are really asking, behind their hopeful expression, is “when?” This card represents the destiny that everyone seeks. Above all else we want to be admired, loved, worshiped, cared fo",
+        "description": "Here we have the prototypical “Adam and Eve.” (Apparently they were both blonde— who knew?) Throw out any esoteric or occult meanings for this card; it is straight out of the Bible: burning bush (although Waite calls it “the tree of life”), snake, tree of knowledge, that “Raphael” guy, and naturally that nondescript mountain in the distant background, and sea below (“phallus and chalice”). Really... Can you be ANY more blatantly obvious with your symbolism Pamela? Just for fun... compare this ca"
+      },
+      "reversed": {
+        "keywords": [
+          "거짓"
+        ],
+        "meaning": "Pain. Then more pain. In fact, so much pain... Okay, so it’s not pretty. This shows separations (of all sorts): divorces, broken pacts, false friends, job loss; it is the removal of one from the source of life and happiness. Again, it needs to be clarified by other cards to find out the how and why.",
+        "description": "Pain. Then more pain. In fact, so much pain... Okay, so it’s not pretty. This shows separations (of all sorts): divorces, broken pacts, false friends, job loss; it is the removal of one from the sourc"
+      },
+      "imageFile": "6.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 7,
+      "name": "The Chariot",
+      "nameKr": "전차",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "의지력"
+        ],
+        "meaning": "Esoteric interpretation: (see above) Depending on the deck you look at, this card will be an emperor or prince on his “mobile fighting platform,” a priest on (or as above “part of”) a chariot, or a shiny red corvette. Thus, the subtle inferences change, but the basic meaning is clear to all. This man wins. This card shows us victory and power, but it does so in a style that equates being “right” (winning) with “being right” (as in “God” speaks through me—not you). It shows us an indignation that only The Hierophant (or the Queen of Swords reversed) can match. The danger of this message can be a “win-at-all-costs” mentality, or such a passionate, fervent belief in something that it blinds one into a mindset where the only option is the one that the ensorcelled mind perceives. This is the ca",
+        "description": "Okay, take a nice, slow, deep breath... Warrior-priests riding about freely dispensing (their idea of) “justice” is as arcane a concept in most parts of the world today as chariots. The man here is not royalty, not a military hero, nor is he a wealthy merchant. He is the archetypal “warrior-priest” and “he is one with” his chariot of stone (faith, solidity, resoluteness, strength) which is, unsurprisingly, drawn by mythical beasts, thereby strengthening his “righteousness.” Forget the fact that "
+      },
+      "reversed": {
+        "keywords": [
+          "약함"
+        ],
+        "meaning": "Loss; almost always through a lack of skill, preparation, or a lack of “moral fiber.” Defeat due to either weakness or weakness of character. Being “knocked off of your high horse” (or fine social standing) through treachery and deceit. This is often called “character assassination” (which is a deliberate manipulation of facts to present an unfavorable, and usually untrue, picture). Cowardice leading to downfall. The “fall from grace.” The long and the short of this is that as a concept card, th",
+        "description": "Loss; almost always through a lack of skill, preparation, or a lack of “moral fiber.” Defeat due to either weakness or weakness of character. Being “knocked off of your high horse” (or fine social sta"
+      },
+      "imageFile": "7.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 8,
+      "name": "Strength",
+      "nameKr": "힘",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "Perseverance is called for. This doesn’t mean “wait.” It means use a gentle hand (one with an iron grip if you happen to have one handy). You don’t “snap” a lion’s jaws shut. You keep applying pressure until like any other cat he gets tired of fighting you and tries it your way for a moment. The trick is not closing a cat’s mouth, it is keeping the cat from squirming and clawing you to shreds while you are doing this. And that is what the Strength card is all about. Take your time. Stay with this. Do not give up, not now. Not ever. Surrender is defeat. When you see this card, it is a warning, an omen, a command of patient application of inner strength. But always remember that strength does not mean stupidity. If you are in a bad relationship and the Strength card shows up in a card positi",
+        "description": "(Note: In some decks this may be card 11, in others it is card 8. Either way it is still valid.) The image of a young woman calmly restraining a lion is a classic medieval image. It is a timeless allegory of one of the earliest “secrets” known to (wo)man. Femininity, seemingly harmless and needing of protection from the harsh realities of daily life by the strong protectorate of masculine rage, can (and has throughout time, too many times to count really) destroy the strongest man with a smile. "
+      },
+      "reversed": {
+        "keywords": [
+          "두려움",
+          "약함"
+        ],
+        "meaning": "Except here... now you get to be “Mr. Lion.” Occasionally this card reversed will show being dominated (we hear that some people are actually into that), but not just by a “woman.” This could be an alcohol, food, sex, or drug addiction (look for Cups and Swords obviously). Other times it will show weakness, fear, hesitancy, or running away from issues.",
+        "description": "Except here... now you get to be “Mr. Lion.” Occasionally this card reversed will show being dominated (we hear that some people are actually into that), but not just by a “woman.” This could be an al"
+      },
+      "imageFile": "8.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 9,
+      "name": "The Hermit",
+      "nameKr": "은둔자",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "행동"
+        ],
+        "meaning": "As a person—a college professor, any teacher, therapist, consultant, researcher, or priest (male or female—and not necessarily “old” nor creepy); one who seeks “truth” or provides advice. There aren’t a lot of prophets running around these days, so it could easily be any elder who has wise counsel, a (reliable and wise) religious leader, or even a sherpa should you be in the Himalayas at the time of the reading. Otherwise, it is usually an institution (vocational school, junior college, university, or any of the teachers said to inhabit such locales). This card is usually too “big” to simply imply a person who gives you advice, so open it up or look for aspecting cards to determine the full extent of the meaning behind this card. As an action or an event it can indicate deep, intense study",
+        "description": "An old guy stands “atop the mountain” (some say the edge of a cliff) and holds up a light. He is old. Really, really old. That’s about it. Of course, it is entirely possible to look at the “contained” (captured, harnessed, stolen) “light of God” (and won’t he be happy to find out that’s missing!). It’s that six-pointed star thingy inside his otherwise empty lantern (no candle, no fuel or wick...). So this stolen “light of God” he has “mastered the knowledge and use of” allows him to penetrate th"
+      },
+      "reversed": {
+        "keywords": [
+          "거짓"
+        ],
+        "meaning": "Sometimes we can run away from problems by being hyper-social. Instead of quiet reflection, we do everything we can to hide from “the voices in our head” (the good ones). This can also indicate not listening to advice, not spending time learning necessary information, bad advice, or false professionals (scams, cult leaders, pop",
+        "description": "Sometimes we can run away from problems by being hyper-social. Instead of quiet reflection, we do everything we can to hide from “the voices in our head” (the good ones). This can also indicate not li"
+      },
+      "imageFile": "9.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 10,
+      "name": "Wheel of Fortune",
+      "nameKr": "운명의 수레바퀴",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "의지력"
+        ],
+        "meaning": "It’s really hard to overstate the “face value” if it is facing up; it really is a very good card. Things go your way, plans come together. In essence, you are swimming downstream in the great flow of the universe (the current pushes you along, so you end up going faster and further with less effort). Some authorities like to compare this card to the notion of one’s karma; but really, what is karma without dharma anyway? You can’t earn any karma unless you have some personal dharma to start with. In non gibberish terms: You are you. Be you. Don’t run around trying to be something you are not. Yes, yes, yes!! Develop yourself! But do so along your lines of purpose and innate strengths and deepest desires. The trivialities of “popularity” and “success” will come to those who are so true to th",
+        "description": "This is a fun card (be sure to see the “funny captions” section). A giant orange wheel emblazoned with various letters spins randomly as three mythological creatures take their turn “on the wheel” while others record the events of the day. The whole of it takes place in some similarly mythological location (in the clouds). Note that these clouds provide our little group privacy and comfy platforms on which to recline, but not a hint of rain or lightning."
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Well, it’s been fun, but... Okay, so if this card is reversed, it’s definitely time to limit your exposure, take nothing for granted, plan carefully, save your pennies, and get new friends. This indicates challenges (yaay!) and opportunities coming from work (ugh!) and sacrifice.",
+        "description": "Well, it’s been fun, but... Okay, so if this card is reversed, it’s definitely time to limit your exposure, take nothing for granted, plan carefully, save your pennies, and get new friends. This indic"
+      },
+      "imageFile": "10.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 11,
+      "name": "Justice",
+      "nameKr": "정의",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "This card is institutional when physical and conceptual when esoteric. First, the physical meanings: This card can indicate actual locations, such as city halls, courtrooms, law offices, prisons (eek!), and political establishments. It is imperative to open this card up or find aspecting and clarifying cards to enhance your correct interpretation of this rather vague card. On an esoteric level, this card denotes “justice” (as in payback, vengeance, or “karma”) and applied social moral values. Once again, clarify the meaning before attempting interpretation. As an event, this card can indicate a successful resolution, restitution, or settlement in your favor. Of course, this is mildly infringing on Judgment’s divinatory turf, but as these two cards are so densely intertwined it should not c",
+        "description": "(Note: In some decks this may be card 8, in others it is card 11. Either way it is still valid.) “Our lady of justice” sits on her throne between the twin pillars the Tarot uses to illustrate authority, a bland drape behind her. A sword is raised high in her right hand, scales in her left, and the obligatory crown on her head also indicating the supremacy of her authority, for Justice can do no wrong (a purely metaphysical concept). What is interesting is her solid red robe of action. She “only "
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Sometimes the bad guys win. Someone is conspiring in the background. Sycophants, “yes-men,” office politics, drama, unfavorable treatment, and possibly being on the losing side of any large battle (clarify everything through aspecting cards before deciding meaning). If this card comes up reversed in the present or the future, continue reading to find out who is doing what to whom, and then toss out the Roundabout spread to find out how to undo or avoid these nefarious cretins.",
+        "description": "Sometimes the bad guys win. Someone is conspiring in the background. Sycophants, “yes-men,” office politics, drama, unfavorable treatment, and possibly being on the losing side of any large battle (cl"
+      },
+      "imageFile": "11.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 12,
+      "name": "The Hanged Man",
+      "nameKr": "매달린 남자",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "행동"
+        ],
+        "meaning": "Turning your back on routine and searching out answers. This could be a style of problem solving that is used by the person the card relates to (seeing things differently). Sacrifice for a greater goal. Missing out on “life,” but usually because one is preoccupied with something important. However, if this card shows up with, say, the 9 of Swords, and/or the 4 of Coins (you get the idea), you may be seeing someone who is afraid to live, or afraid of spending their money, time, youth, or some other valuable commodity. They are hiding from life. This happens quite a bit really, but like any other “major” Arcana card, you really need to tie it in to “minor” Arcana cards to give it definition. This card also shows a time of waiting, inaction, deep thought, passive magical exercises (meditation",
+        "description": "Before you do anything else, stop and turn this card around so that the card is upside down. Now look at him. Squint your eyes if you have to, but use those amazing powers of visualization you are developing to see him on the deck of a ship. He is now (when the card is upside down) in the classic pose of a sailor dancing a jig. Why, why, why? The other masters have inferred the associations with the element of water but they never bothered to tell anyone (except maybe their students) about this "
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Ahh, the joys of life—of being young and alive and free, without a care in the world! This is how those celebrity “billionaire babies” must feel every day, running from party to party, laughing mercilessly at all of “the little people” who actually have to work for a living. Oops! I used the “w” word. Silly me! This shows an abandonment of responsibility, study, effort, or bothering to care.",
+        "description": "Ahh, the joys of life—of being young and alive and free, without a care in the world! This is how those celebrity “billionaire babies” must feel every day, running from party to party, laughing mercil"
+      },
+      "imageFile": "12.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 13,
+      "name": "Death",
+      "nameKr": "죽음",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "의지력"
+        ],
+        "meaning": "Death. But not usually. You see, there are only 78 cards, so the chance of any one card showing up is 1 in 78, which aren’t bad odds at all. Now in a multi-card spread like the Celtic Cross, the chances for any one card showing up (even before you start opening up cards, or the reading itself) drop to 1 in 7-point-something, depending on whether you use a significator (or two), or not. The chances of most people dying in the next 30–60 days is hardly “1 in 7.” Thus, each card has to pull “double duty.” This doesn’t mean that the Death card will really start to mean that it’s “new pony time,” but it will also show things like endings and beginnings. Please remember that every “major” Arcana card is an allegory that must be deciphered. For example: If someone walked up to you and said in a s",
+        "description": "Death rides a pale horse into town at sunset. Sunset, by the way, was the official ending of one day and the beginning of the next in Druidic calendars, which are the basis for much of modern paganism. Today’s calendars start each day at midnight (the daily equivalent of Yule), even though the sun rising every day is synonymous with spring, and “the time of waking,” both physically and metaphysically. Here a priest of some high rank begs for mercy, a king lies dead, a young girl falls over ill, "
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Stagnation; refusal to let go. Holding on to outdated ideas. A boring life.",
+        "description": "Stagnation; refusal to let go. Holding on to outdated ideas. A boring life."
+      },
+      "imageFile": "13.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 14,
+      "name": "Temperance",
+      "nameKr": "절제",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "Teamwork works. None of us is as smart as all of us. Properly blended energies make “magic cookies.” Success is a recipe. Failure comes from any number of deviations in that recipe (too much salt, not enough baking time...). Draw together your resources and use them to reach your success. Do all of the above until exhausted and then rest. Start again when you are refreshed. If time is short, split your team into separate groups so that activity is ongoing but no one is overtaxed. Note this card blends two major meanings into one overarching message: do correctly.",
+        "description": "“So we were like, at this rockin’ party last night, and get this—Archangel Mike was totally pouring these wicked jello shots...” Actually the angel is a woman* by most accounts, and in many of the most symbologically correct decks, it is a woman (angel or not). But that is less important than the fact that the image on the left tries to repeat a concept endlessly: two wings spread wide “balancing” just off of the ground, but also visually illustrating the concept of “balance,” pouring from one c"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Imbalance, bad planning, poor execution, lack of wisdom, rushing anything. Too much of this, not enough of that. Too much at once. Selfishness, prima donnas, lack of understanding.",
+        "description": "Imbalance, bad planning, poor execution, lack of wisdom, rushing anything. Too much of this, not enough of that. Too much at once. Selfishness, prima donnas, lack of understanding."
+      },
+      "imageFile": "14.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 15,
+      "name": "The Devil",
+      "nameKr": "악마",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "When this card shows up in a reading, it usually indicates physical incapacitation. “You are stuck—here.” This could be a bad marriage, a boring job (with the obligatory evil boss), an extended hospital stay, waiting—endless waiting for other people to fulfill their obligations so you can move on, or any other slow systematic torture that seems well beyond the control of your client to change or eliminate. As such, it needs to be opened up to find the root cause of this, and then re-opened to find the “way out.” This is obviously a concept card and almost never directly relates to an individual or a single event, unless it is speaking as a purely visual example of your client’s emotional experience (“That ‘mandatory office Christmas party’ was four hours of hell while I was hit on by every",
+        "description": "This is another fun card, one your clients will no doubt enjoy seeing in their spread. Señor Diablo is waving at the crowd for the publicity shots in hell. (They were going for an image makeover that never really caught on). It’s not so much that he is trying to hide his torch as it is that he lit the man’s tail on fire for effect. Leave aside all of the endless arguments of “Christian devil versus Eliphas Lévi’s* pagan horned-god rendition” and just call this guy the Devil and be done with it. "
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "This is where the “get-out-of-jail-free!” part comes in. When reversed, The Devil indicates a release or an escape from oppression. Again, this can be on a number of levels. It’s like squeezing a giant pimple. It’s not very pretty, but the release of pressure that has been nagging at you for what seems like forever feels good in an almost “guilty pleasure” sense. Unlike Death, where things are usually pretty cut-and-dry, The Devil oozes along, leaving a trail of odor that lingers for a while. Wh",
+        "description": "This is where the “get-out-of-jail-free!” part comes in. When reversed, The Devil indicates a release or an escape from oppression. Again, this can be on a number of levels. It’s like squeezing a gian"
+      },
+      "imageFile": "15.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 16,
+      "name": "The Tower",
+      "nameKr": "탑",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "“And stay out!” Okay, let’s look at change in the “major” Arcana. We have Death (“Poof! Be gone!”), The Devil, reversed, (“Quick! The guard’s not looking! Let’s get OUT of here!”), and now The Tower. This is the very earth shaking the house down to the foundations. Death is a highly personal experience (usually internal) that can affect many, whereas The Devil is almost always an external experience involving people or situations close by. The Tower can be either of these, or it can be monumental in scale or meaning. The Tower is most often external change relating to job, residence, paradigm, or “traditional authority.” It is a direct challenge to our perceptions and beliefs. It can be the first shot in the revolution or it can speak for the revolt itself. It is not necessarily unpleasant",
+        "description": "“God” is not happy. Lightning strikes at (the Tower of Babel in this version) and the “crowning achievement” of mankind is torn asunder while both architect (designer of this masterpiece) and emperor (facilitator and caretaker of this enterprise) are thrown from its heights. Firey yods accompany our unlucky victim’s free-fall descent. For added effect, fire escapes from the windows showing that even stone can burn; and, of course, the ground to which our erstwhile geniuses are falling is rocky a"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Many traditionalists still see this as a “bad” card. We have found in our experience that this card indicates a time of rebuilding. Obviously, rebuilding can only come after a period of disruption and chaos, and that is an awful lot of stone to move, so this does not indicate an “easy,” or overly “joyous” time, but it does indicate second chances, and time to learn from one’s mistakes.",
+        "description": "Many traditionalists still see this as a “bad” card. We have found in our experience that this card indicates a time of rebuilding. Obviously, rebuilding can only come after a period of disruption and"
+      },
+      "imageFile": "16.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 17,
+      "name": "The Star",
+      "nameKr": "별",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "행동"
+        ],
+        "meaning": "Hope. Faith. Magic. More to the point: When this card comes up, it shows a need to, or the action of, reaching out to the gods for assistance. It is “divine assistance” coming to play. If you are already praying, this is a positive response. If you haven’t started praying, this card asks what you are waiting for. It is situations getting better through divine intervention (so you know who to thank).",
+        "description": "A giant star dominates this picture (this holds true for various artist’s renditions of this card—not just this particular deck). This star is, in turn, supported by other, smaller stars. A naked woman pours water from two pitchers; one into a small pool, the other onto the ground, where it splits into five rivulets. She kneels on the earth and the water for support showing us that she bridges the barriers between the two. The surrounding land is lush and fertile. A bird watches in the backgroun"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Just turn the card around. Or: hopelessness, despair, lack of spiritual connection.",
+        "description": "Just turn the card around. Or: hopelessness, despair, lack of spiritual connection."
+      },
+      "imageFile": "17.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 18,
+      "name": "The Moon",
+      "nameKr": "달",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "긍정적 에너지"
+        ],
+        "meaning": "(mostly negative, really) Confusion. Deception (see above), hidden enemies, lies, illusions, alcoholism, drug use, addiction of any kind, hysteria (specifically), indigestion and/or heartburn. Rumors: watch your back at work or in close-knit social circles. Is someone you know talking behind your back? It is especially important to verify this (through aspecting cards) before you start making accusations. Also: mysteries, paranoia, unfounded accusations. Denial. Less overtly negative associations: menstruation, psychic powers, detective work, occult powers, secret organizations, seafood (yes, really—especially shellfish), issues associated with the breast or stomach, maternity (look for verification of pregnancy, or pregnancy issues in related cards and/or in aspecting and clarifying cards",
+        "description": "A combination moon (both crescent and full) looks down on a wolf, a dog, and a lobster (“So a wolf, a dog, and a lobster walk into a bar...”) with two fortress towers standing guard over the path that leads straight from “Mr. Lobster” to the distant mountains. Moonlight yods fall to the ground, symbolising the rain of ethereal moonlight energy. It is more important to “get to know” your Moon card and decide exactly what it means to you on a regular basis than it is to keep looking for answers fr"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "Deception revealed. Light is shined on the denizens of the darkness (and don’t expect them to be happy about it!). It’s not so much a time of “Truth” as much as it is the end of a time of deception and trouble. Someone very bad for you leaves your life. You leave a crappy job. This also could indicate kicking bad habits, ending (or strongly minimizing—and thus controlling) harmful addictions. These (above) all assume a negative Moon card association. If your standard Moon card association is a p",
+        "description": "Deception revealed. Light is shined on the denizens of the darkness (and don’t expect them to be happy about it!). It’s not so much a time of “Truth” as much as it is the end of a time of deception an"
+      },
+      "imageFile": "18.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 19,
+      "name": "The Sun",
+      "nameKr": "태양",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "영감"
+        ],
+        "meaning": "Success, usually after struggle. More specifically: energy and intent is being offered to you from various sources. This can be “divine intervention,” creative inspiration, physical assistance from others, loans of any sort, sound advice, etc. You are in the spotlight. People and “things” are looking to help you at this time, but you must be alert to opportunity and aid if you are to accept the goodies in store for you. Destiny is an opportunity— not a guarantee. Never forget that.",
+        "description": "A baby (blonde naturally, he’s probably a Leo anyway) rides a white horse while the Sun looks on. Sunflowers tower overhead and the baby miraculously holds high a flowing red banner of relatively gigantic proportions. Note the Sun’s rays spread in all directions, the straight lines indicating the spread of light, while the wavy lines indicate the radiance of heat. This shows the Sun in its “infinite glory,” unobscured by those pesky clouds or eclipsed by the nascent moon. “Nothing can stop the p"
+      },
+      "reversed": {
+        "keywords": [
+          "두려움"
+        ],
+        "meaning": "Closing off from help; depression, paralyzing fear, lack of support.",
+        "description": "Closing off from help; depression, paralyzing fear, lack of support."
+      },
+      "imageFile": "19.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 20,
+      "name": "Judgement",
+      "nameKr": "심판",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "의지력",
+          "행동"
+        ],
+        "meaning": "Zombies. Well, they look like zombies to us (gray skin, rising from the dead...). This card indicates (as noted above) the end of something, but not necessarily the beginning of something else. It is both a “progress report” and a respite from action; a pause if you will. In the most simple cases it does indicate lawsuits or judgments in lawsuits, report cards, school graduations, breaking up after a loud shouting match. It simply represents the end of something and a marker stone placed in the Akashic Records that says “this happened and as a result...” Now it is time for something else, but what that is will be left up to you, and that old devil circumstance.",
+        "description": "An angel toots his horn signifying the mythical day when everyone will be judged, and a select few will get toys and candy, and the rest will burn in hell forever, and ever, and ever. Amen!"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "“... and so there I was at the party, trapped in the corner by this really creepy old guy who just kept going on and on about how he owned this company and that, and how much money and power he had, and...” Back in days when music was recorded onto vinyl, the circular disk had a long spiral that the “record player” needle sat in and responded to all of the little bumps, in turn, translating that into sound. But sometimes the “record” was scratched, and the needle would jump the groove and play t",
+        "description": "“... and so there I was at the party, trapped in the corner by this really creepy old guy who just kept going on and on about how he owned this company and that, and how much money and power he had, a"
+      },
+      "imageFile": "20.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 21,
+      "name": "The World",
+      "nameKr": "세계",
+      "suit": null,
+      "arcana": "major",
+      "upright": {
+        "keywords": [
+          "의지력"
+        ],
+        "meaning": "This is a very happy card on the physical level. At its most basic it represents the pampered and the idle rich; those wonderfully happy people born into generational wealth (see 10 of Coins) who have nothing better (or worse) to do than to play all day and wonder how they will play all night as well. It truly is “the world at your feet.” The key to this card is that it is evolution on so many levels of meaning that it can easily apply to any situation. It is extremely ambiguous and all but demands clarification by accompanying “minor” Arcana cards to give it focus. This is another completion card, but as noted it is a card of evolution from one state to another. The alchemical correspondence is that of transmuting lead into gold. The base chemical composition is almost identical, but the ",
+        "description": "A celestial woman (goddess) dances in the air with her twin wand candles (see The Magician), which she is the undisputed master of, not merely the possessor (also see The Magician). This is reinforced by her purple sash. She is surrounded by a laurel of victory that is also a portal to her home dimension, or a gateway to her. Four guardians sit in attendance: angel, eagle, lion, bull, representing various character qualities as well as the elements of awareness and existence. This “audience of m"
+      },
+      "reversed": {
+        "keywords": [
+          "부정적 에너지"
+        ],
+        "meaning": "“Leftovers again?” (or) “If I have to go back to that horrible job one more day...” Endless, meaningless, repetitive, redundant existence—“Every day the same thing: Breathe, breathe, breathe.” You really need a vacation right now. You are missing out on all of the fun in life. Go dancing!",
+        "description": "“Leftovers again?” (or) “If I have to go back to that horrible job one more day...” Endless, meaningless, repetitive, redundant existence—“Every day the same thing: Breathe, breathe, breathe.” You rea"
+      },
+      "imageFile": "21.jpg",
+      "element": " ",
+      "planet": " "
+    },
+    {
+      "id": 22,
+      "name": "Ace of Wands",
+      "nameKr": "완드 에이스",
+      "suit": "wands",
+      "rank": "ace",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "First off, this is a very Aries card. Let’s cover this. The suit of Wands is equated with the metaphysical element of fire, and the number one is the “first” of anything. But take a moment and really think about the whole “Aries” thing. Love ’em or hate ’em, not much would get done without Aries people and Aries energy. The whole point of Aries energy is “something from nothing” (never confuse that as something for nothing—a popular concept which in reality just does not exist). Before Aries there is nothing. “Zero,” or the null. Aries energy is the will imposing itself so forcibly on the universe that it simply springs into being. No other astrological sign can do that (sorry Scorpios). The sheer audacity required to say “I am!” and force yourself into existence is often downright barbari",
+        "description": "The “hand of God” appears from a small cloud, holding a budding branch while leaves reminiscent of Hebrew yods gently fall. The sky is otherwise calm, a tranquil river crosses the flat plains in the background, and a large castle sits atop a hillside fortification. This image is static and symbolic, and ethereal. This card inherits its cardinality from being an Ace, or the first of the suit, and the suit of Wands is representative of the element of fire. This combination makes this a card of exp"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "This is still a high energy card, but when it comes up reversed, expect conflict, disagreements, obstacles, and general mayhem in any new venture. Reversed, this card can also reveal a new direction in life (like being chased out of town by peasants armed with pitchforks!), so be ready to adapt, or leave, as necessary.",
+        "description": "This is still a high energy card, but when it comes up reversed, expect conflict, disagreements, obstacles, and general mayhem in any new venture. Reversed, this card can also reveal a new direction i"
+      },
+      "imageFile": "22.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 23,
+      "name": "Two of Wands",
+      "nameKr": "완드 2",
+      "suit": "wands",
+      "rank": "2",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "This is a card of beginnings and calculated risks, but instead of the spark of creativity or a burst of energy as seen in the Ace, this energy is a carefully planned effort to create a favorable outcome. This is the card of planning, coordinating, the will applied to physical action: the “law of attraction” being applied. This a card of doing and waiting. Results will come later. Right now, plan carefully and act decisively. Gather allies and support if you can, as well.",
+        "description": "A wealthy merchant looks out over the sea from the parapets of his estate. This is a man of vision. He is successful and confident, and he is in the midst of planning a new venture. He holds the world in his right hand, and his left holds a staff. Behind him a staff is firmly anchored in place. The lands below are fertile and populated with civilized people. This image is active and pragmatic. This card is a direct, active response to the explosive creativity of the Ace of Wands. It is controlle"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Bad planning, or a complete lack of planning. Things NOT going at all according to plan, difficulties at the beginning of a venture, ideas without resources to put them into action. Possible weakness of will to take needed action (verify this by looking at associated cards). Reversed, this card represents “the curse of inconvenience,” which is an extremely powerful but subtle curse where countless “little things” just go wrong no matter what we do. Persist.",
+        "description": "Bad planning, or a complete lack of planning. Things NOT going at all according to plan, difficulties at the beginning of a venture, ideas without resources to put them into action. Possible weakness "
+      },
+      "imageFile": "23.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 24,
+      "name": "Three of Wands",
+      "nameKr": "완드 3",
+      "suit": "wands",
+      "rank": "3",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "의미를 추출할 수 없습니다.",
+        "description": "Late in the afternoon our friend from the 2 of Wands stands on a perch overlooking his ships at sea. His plans have produced results and even now his affairs are in motion. It’s not time to celebrate yet, but things go well. Very well. The energy of this card is fixed as it represents the management of ongoing activities toward an important goal. It represents “active waiting,” where circumstance, or the actions of others, move us closer to our goals, but we remain productive while these outside"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Expect delays. Also: problems getting resources or the cooperation of others. Possible sabotage by a team member of a project early on. Make sure that team members are working together and that energies are not scattered. Don’t sit around waiting for results or try to micro-manage the project at hand. Stop whining about “lack of progress” and do something.",
+        "description": "Expect delays. Also: problems getting resources or the cooperation of others. Possible sabotage by a team member of a project early on. Make sure that team members are working together and that energi"
+      },
+      "imageFile": "24.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 25,
+      "name": "Four of Wands",
+      "nameKr": "완드 4",
+      "suit": "wands",
+      "rank": "4",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "This is a prime empire card. The harvest is a good one and the fruits of labor are being enjoyed in a great feast. This is the time to celebrate. This card indicates parties and joyful gatherings of friends and associates. It also reflects the serenity of financial security, especially as a result of good long-term planning and careful application of efforts. This is not a card of action as much as it is a card of rest and recreation after much hard labor. Also: parties, a happy homelife.",
+        "description": "설명을 추출할 수 없습니다."
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Don’t start counting those chickens just yet. (They have yet to actually hatch!) Delays in payoffs and lost invitations are common here now (or worse, being excluded from celebrations). Possibilities of being disowned from the family fortune or losing one’s cushy lifestyle. Best to start saving and spend cautiously while things get sorted out. Watch your finances right now.",
+        "description": "Don’t start counting those chickens just yet. (They have yet to actually hatch!) Delays in payoffs and lost invitations are common here now (or worse, being excluded from celebrations). Possibilities "
+      },
+      "imageFile": "25.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 26,
+      "name": "Five of Wands",
+      "nameKr": "완드 5",
+      "suit": "wands",
+      "rank": "5",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "Look closely at the players in this card. One man guards against another who makes a proclamation, while another looks up in worry. The central character wonders of the quality of his staff and his destiny with it while the last holds his staff high in defiance so as not to be left out of the “fun.” Everyone has their own idea of how things should be done, and this is what happens when those ideas come into contact with each other. This card represents a madhouse, a situation that is devolving into a circus. Egos flare and while some work to find harmony, others prance and dance to their own tunes. Step lightly (or run!) at this time. Let cooler heads prevail.",
+        "description": "“Fight! Fight! Fight! Fight!...” You knew this had to happen. Life was too good in the house of ambition and drive. Here we simply have too much testosterone, and too much money and ease, which led to people carving out their own mini-empires. Five young men, all shouting, glaring, worrying, and examining their “staves” as they each test the limits of their power, or prepare to be set upon by others. Chaos meets ambition and excess energy in this card. The duality of the number five blends with "
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "This is still not a very “positive” card, so remain vigilant. Usually this indicates a truce, or a rectification of earlier squabbles, but beware of political maneuvering and bruised egos looking for future opportunities to find vengeance.",
+        "description": "This is still not a very “positive” card, so remain vigilant. Usually this indicates a truce, or a rectification of earlier squabbles, but beware of political maneuvering and bruised egos looking for "
+      },
+      "imageFile": "26.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 27,
+      "name": "Six of Wands",
+      "nameKr": "완드 6",
+      "suit": "wands",
+      "rank": "6",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "Parades, accolades, victories, and celebrations of victories. If this card is an outcome, expect good things—and then expect a public spectacle of the victory. Possible raise, promotion, awards won, public affection, and even perhaps a little boasting are bound to happen very soon. Occasionally this card also represents a leader rallying his or her troops, organizing for a major cause. If that is the case, the surrounding cards will support that notion quite clearly.",
+        "description": "Well, someone had to win, and now they get to lord their victory over others. This is the card of the celebrated hero, the conqueror with his battle parade marching in celebration. Note also that the staves in the background are held high and straight with pride. Neither rider nor horse is dressed for battle. They are garmented for public celebration. If this card represents you, then it is good to be you. This card is a reaction to previous events more than it is an original thought. It is a ce"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Ugh! All this work and does anyone notice at all? Sometimes you work, and work, and work, and of course someone else steals your thunder, your credit, or kisses up to the powers that be to make it look like they are the noble hero du jour. Time to buy yourself a cheap voodoo candle (or just grin and bear it). Occasionally this card may indicate outright defeat. Verify this before proceeding.",
+        "description": "Ugh! All this work and does anyone notice at all? Sometimes you work, and work, and work, and of course someone else steals your thunder, your credit, or kisses up to the powers that be to make it loo"
+      },
+      "imageFile": "27.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 28,
+      "name": "Seven of Wands",
+      "nameKr": "완드 7",
+      "suit": "wands",
+      "rank": "7",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "“This may hurt a bit...” Sun Tzu advocates in The Art of War holding the higher ground in battle if one desires to be victorious. This may take the form of a mental process (being smarter in battle), an emotional one (remaining calm while whipping your opponent into a frenzy), or a physical one (where you can throw rocks down on your enemies). This card indicates attackers ganging up on one who is above, more powerful, or better than they are (verify with other cards to discern which). The defender here has the advantage of the high ground, and the confidence and determination to win. Skill is also implied, foretelling victory after strife.",
+        "description": "A man stands defensively on the edge of a cliff, staff raised both to ward off attacks as well as to physically intercept them. His back is to the proverbial wall (or cliff) and he knows he has no choice left but to fight (or at least look menacing and determined enough to scare off his pursuers). We see their staves in the foreground, as a group, but so far not one has ascended to face this man personally. This is the card of active defense. It is fixed in nature, as it is the holding of a posi"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Don’t expect an easy victory. In fact, victory at all may not be possible along the present course. Sometimes it is best to retreat and find more solid ground. Occasionally, this card may indicate weakness or paranoia.",
+        "description": "Don’t expect an easy victory. In fact, victory at all may not be possible along the present course. Sometimes it is best to retreat and find more solid ground. Occasionally, this card may indicate wea"
+      },
+      "imageFile": "28.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 29,
+      "name": "Eight of Wands",
+      "nameKr": "완드 8",
+      "suit": "wands",
+      "rank": "8",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "Quick, sudden burst of energy and/or action. Adventure is afoot in the realm and there is no time for rest or sloth. The flight of the staves indicates unified sources of action (unseen causes) leading to change and possible travel. Be ready to change, move, adjust, or fly (literally or even physically) at a moment’s notice. The alignment of the wands in this picture indicates a certain uniformity of action, so expect a reasonably orderly process rather than a chaotic mess. This is generally assumed to be a mildly lucky card.",
+        "description": "Eight wands fly through the air. This may, in fact, be the most annoying Tarot card ever drawn. It has caused no small amount of confusion and consternation among teachers and students alike over the years. If the artwork of this card bothers you, you are in the vast majority. Nonetheless, it is generally a good omen. This card has no attachments and the staves are unanchored, and thus stated by all commentaries to be “in flight.” This bequeaths a sense of mutability or impermanence to the energ"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Stagnation or missed opportunities. Not being able or ready to take action when fortune calls. Canceled plans or vacations, inconsistency in action. Reckless action taken without adequate forethought. Alternatively: scattered and wasted energies. If paired with any Sword card (but especially the 7 of Swords), this could indicate an ambush or even a call to retreat.",
+        "description": "Stagnation or missed opportunities. Not being able or ready to take action when fortune calls. Canceled plans or vacations, inconsistency in action. Reckless action taken without adequate forethought."
+      },
+      "imageFile": "29.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 30,
+      "name": "Nine of Wands",
+      "nameKr": "완드 9",
+      "suit": "wands",
+      "rank": "9",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "Dedication, trustworthiness, a sense of duty and the will to carry it out. Loyalty to a cause. Endurance in the face of challenges. Victory through perseverance and determination. Inner strength and a solid conviction in one’s beliefs. A very worthy adversary. Also: physical or emotional “solid fortress” (bastillion). Something worth defending. Successfully defending your “stuff” (your beliefs, possessions, job, spouse, or anything that is in question) against all opposition. The person in question has backbone.",
+        "description": "A man stands watchful guard over a small forest of staves. The man is a veteran and has recently been called upon to defend his charge. He does not allow his bandaged head to serve as an excuse to abandon his post. He is tired and worn, but watchful, conserving his energy for a fight, or the duration of his watch, whichever comes first. Here we have another defensive card, yet, unlike the 7 of Wands, this is guard duty: protection of material possessions, rather than being accosted by upstarts."
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Weakness of character. Shifty and shifting alliances. Someone who tries to evade responsibility, or even deserts outright. Fear of standing up for what is most important to yourself or your needs. Escapism.",
+        "description": "Weakness of character. Shifty and shifting alliances. Someone who tries to evade responsibility, or even deserts outright. Fear of standing up for what is most important to yourself or your needs. Esc"
+      },
+      "imageFile": "30.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 31,
+      "name": "Ten of Wands",
+      "nameKr": "완드 10",
+      "suit": "wands",
+      "rank": "10",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "Be careful what you wish for. This powerful card reminds us, as does the 10 of Swords, that at the end of the day, all we have said and done catches up with us. The luxuries we crave are our burdens in turn. This man has “lots of sticks” but he has to carry them to his destination or lose them. Success has a price, and you may have to bear it once you get everything you desire. Fame, power, and wealth are seldom what we thought they would be when we first started along our path. Know exactly what you want before you invest a lifetime pursuing it so that when you get it you are still happy to carry the load. This card shows heavy labor or emotional burdens one chooses (or is forced) to carry for a time.",
+        "description": "A man is bent over in an effort to carry his burden of wands to the distant town. He is labored but shows no sign of quitting and uses his momentum to carry him toward his goal. His load of sticks is both valuable and an albatross around his neck. Whether harvest or punishment, the weight of the wands remains the same. This card is the fulfillment of a lifetime of efforts and energies along the path of Wands. From Ace to Nine our heroes have progressed to this point: the culmination and the rewa"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Release of burdens or responsibilities. A weight being lifted off of your shoulders. Perhaps shirking responsibilities (check any aspecting cards to verify if this is so).",
+        "description": "Release of burdens or responsibilities. A weight being lifted off of your shoulders. Perhaps shirking responsibilities (check any aspecting cards to verify if this is so)."
+      },
+      "imageFile": "31.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 32,
+      "name": "Page of Wands",
+      "nameKr": "완드 페이지",
+      "suit": "wands",
+      "rank": "page",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "Pages are “catch-all” cards in readings. Most often this Page is used to indicate a male baby, or a young boy or girl with blonde hair. It can also indicate a young boy or girl of a Fire sign (Aries, Leo, Sagittarius), news of, or an invitation to, a new adventure, or even the study (apprenticeship) of an active or dangerous field of employment (firefighting, police work, sports, military school, etc.). If this Page shows up in a reading strongly associated with an Ace or a Queen, it often portends a birth. If this Page shows up in connection with The Empress, it almost assuredly represents pregnancy with a male child, or a baby who will be one of the Fire signs.",
+        "description": "A young man dressed in the royal court’s yellow tunic holds up a staff for inspection. Overall, he looks to be pretty satisfied with his find. His stance and attire indicate a relaxed state, prior to a journey or adventure. The feather in his cap tells us that he is indeed at the beginning of his journey through life, but is schooled and experienced (at least enough to warrant the feather). Do notice though how his feather is just a lick of flame. This card is cardinal as it is instigatory, repr"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Unhappy news suddenly, arguments, unruly children, mild danger (if regarding any of the employment listed above), problems with pregnancy or small children. Rebel or minor rebellion. Also: Impotence.",
+        "description": "Unhappy news suddenly, arguments, unruly children, mild danger (if regarding any of the employment listed above), problems with pregnancy or small children. Rebel or minor rebellion. Also: Impotence."
+      },
+      "imageFile": "32.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 33,
+      "name": "Knight of Wands",
+      "nameKr": "완드 나이트",
+      "suit": "wands",
+      "rank": "knight",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "“No time for explanations! We have to move now!... Okay, maybe a quick explanation, but then we have to take action!” This is a card of rallying. Swift, sudden movement, decisive action, high adventure, sudden movement (especially “road trips”), impromptu vacations, hyperactivity, active, danger-seeking young men, “the hunt.” Occasionally this card pairs with the 6 of Swords or The Chariot to indicate travel, or relocation. This card can also be used to signify a young man with red hair or an aggressive/ impulsive personality, should you wish to do so.",
+        "description": "“Mister Adventure.” The Knight of Wands is shown rearing his horse up on two legs. This controlled maneuver requires a lot of training between rider and mount, and is a highly symbolic announcement of action before action. It is also grandstanding. His feathers are symbolic of the fiery sexual energy that burns through his entire being. He is ever the “knight in shining armor” charging off to some adventure or danger to embrace. Something big is about to happen. This card is testosterone feeding"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Charging ahead without forethought. Impulsive behavior (usually detrimental), uncontrolled anger or sexual desires, bullying, domineering young “alpha” males. Also: abruptness of personality, rudeness, bad planning, grandstanding, attention",
+        "description": "Charging ahead without forethought. Impulsive behavior (usually detrimental), uncontrolled anger or sexual desires, bullying, domineering young “alpha” males. Also: abruptness of personality, rudeness"
+      },
+      "imageFile": "33.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 34,
+      "name": "Queen of Wands",
+      "nameKr": "완드 퀸",
+      "suit": "wands",
+      "rank": "queen",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "There are several ways to read the Queens. For ease and consistency (as well as accuracy), we strongly recommend the following. Queen of Wands: Aries, Leo, or Sagittarius woman. Primary characteristics are courage, assertiveness, confidence, often open and friendly, outgoing, adventurous, honest, frank, resolute, reliable, hard working. Also could be used for any self-assured, pleasant woman, preferably with a strong fondness for animals and nature. Possible tomboy.",
+        "description": "The Queen of Wands sits on her throne gazing off at some unknown point of interest, delicately holding aloft a sunflower in her left hand, and her staff of rulership in her right. A mangy black cat sits before her like a guardian. This is a queen whose passion is ruling, not intrigue and scandal. She rules comfortably from her stone throne and aspires to oneness with nature. She will always connect more to her animal side than her anima or any plant she cares for. She is fixed in her ways, as th"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Same woman: (could be any of the following) Impatient, demanding, self-obsessed, intolerant, angry, flaky, drama queen, commanding or bossy, tactless, unfeminine, headstrong, tyrannical, fixed opinions.",
+        "description": "Same woman: (could be any of the following) Impatient, demanding, self-obsessed, intolerant, angry, flaky, drama queen, commanding or bossy, tactless, unfeminine, headstrong, tyrannical, fixed opinion"
+      },
+      "imageFile": "34.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 35,
+      "name": "King of Wands",
+      "nameKr": "완드 킹",
+      "suit": "wands",
+      "rank": "king",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "에너지",
+          "열정",
+          "창조"
+        ],
+        "meaning": "This is a “man’s man,” one of adventure, action, and machismo. Usually quick to anger with a fiery, intense personality, he is usually too impatient to invest his valuable time scheming. His way is direct, forceful, and to the point, so he is often honest simply from the lack of cunning. Choose this card for a leader, a boss, or any highly-dangerous profession. Alternatively, you can use this card to represent any man of the Fire signs (Aries, Leo, Sagittarius), a fiery-tempered man, or a redheaded man over 30.",
+        "description": "The King of Wands sits slightly forward on his throne, left hand clenched into a relaxed fist, as if he is looking for, even begging someone to step out of line in his kingdom. Even his pet lizard is attentive to the court in front of him. This man reeks action held in place only by duty, from his golden crown of flames to his staff which rests diagonally across him, ready to be flipped up into his left hand for a fight. His cape is thrown back on his left side to allow freedom of movement, shou"
+      },
+      "reversed": {
+        "keywords": [
+          "좌절",
+          "지연",
+          "에너지 부족"
+        ],
+        "meaning": "Tyrant, rude, bully, domineering boss, violent criminal, self-obsessed megalomaniac, basically a real jerk. Could also represent a glory-seeking poseur masquerading as the positive side of this card. Alternatively, this card reversed could show possible misfortune to an otherwise good man if it is heavily aspected by negative cards in the reading.",
+        "description": "Tyrant, rude, bully, domineering boss, violent criminal, self-obsessed megalomaniac, basically a real jerk. Could also represent a glory-seeking poseur masquerading as the positive side of this card. "
+      },
+      "imageFile": "35.jpg",
+      "element": "fire",
+      "planet": null
+    },
+    {
+      "id": 36,
+      "name": "Ace of Cups",
+      "nameKr": "컵 에이스",
+      "suit": "cups",
+      "rank": "ace",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "As with all Aces of the Tarot, this card reflects new beginnings, purity of form and purpose, and the elemental intensity required to successfully manifest something from nothing. This Ace, however, indicates the wellspring, or source, of what is to follow in this suit. This places it parallel in prominence with any of the “major” Arcana cards. Easy interpretations are: anything new on an emotional level; love, hope, “a miracle cure” of any sort, a surge of happiness, a birth (likely a girl), engagement, or even a marriage (if aspected by the 2 of Cups, The Lovers, or other obvious indication). The deeper implications show a potential soul bonding, spiritual awakening or deep religious devotion, a peace offering in war, or a miracle offered (longshot hope). Being an Ace, this card is the e",
+        "description": "The “hand of God” appears from a cloud, holding a fountain aloft for a dove to dip a Catholic communion wafer into. Water droplets shaped like Hebrew yods fall to the water below. The essence implied here is the absolute purity of the spiritual waters that are the source for all human emotion (the large body of water below). Being an Ace, this card is cardinal, or bold and forceful in leadership by nature, and the suit of Cups is representative of the metaphysical element of water, indicating sp"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Depression. Unhappiness and malaise, potentially devastating news (with any Page, or Swords), loss of love, faith, or happiness. Separation from one’s personal source of inspiration and hope. Drug overdose in a medical spread or if aspected negatively by Sword cards or cards akin to the 5 of Cups. Poison.",
+        "description": "Depression. Unhappiness and malaise, potentially devastating news (with any Page, or Swords), loss of love, faith, or happiness. Separation from one’s personal source of inspiration and hope. Drug ove"
+      },
+      "imageFile": "36.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 37,
+      "name": "Two of Cups",
+      "nameKr": "컵 2",
+      "suit": "cups",
+      "rank": "2",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "Everyday meanings—A date, chance meeting, new romance, an engagement (if supported by enhancing cards), proposal or handfasting, agreement or truce between two parties, law settlement, or man asking woman out (he is approaching her). Deeper meanings—Tantric union, soul mate card. Use this card in your meditations to attract the right person for you. Conversely, this card can indicate successful contract signings in business (if supported by Wands), conflict resolution (if supported by Swords), or a promotion, raise, or loan (if supported by Coins). This is a very lucky, or fortunate, card. It is also the physical manifestation of the concept of The Lovers “major” Arcana card.",
+        "description": "Look closely at this card. Two become one here. The man wears a wreath of roses while the woman wears a laurel (traditionally a masculine adornment) in a sacred ritual of gender communion. This is soul bonding. Cups are exchanged and a peaceful cottage in the distance alludes to a happy family to come, but the true symbolism here are the twin serpents of curiosity and desire balanced below the lion’s head of nobility flanked by wings of purity of intent. This is not “ordinary love,” although thi"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Trouble in Paradise. A separation; two people going their own way, or refusing to hear each other out. Compassion dissolves into bitterness. Spurned love. Rejection. If coupled with the 3 of Swords, this card (reversed) specifically indicates infidelity.",
+        "description": "Trouble in Paradise. A separation; two people going their own way, or refusing to hear each other out. Compassion dissolves into bitterness. Spurned love. Rejection. If coupled with the 3 of Swords, t"
+      },
+      "imageFile": "37.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 38,
+      "name": "Three of Cups",
+      "nameKr": "컵 3",
+      "suit": "cups",
+      "rank": "3",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "This is the pregnancy card, especially with any Ace, any Page, or The Empress. Alternately it shows celebrations and parties, close friendships, and happiness among like-minded people. If you draw this card, expect good things to happen. This card is not the victory itself; it is the victory dance. If following an illness or surgery, this card shows rapid and complete recovery. In aspect to any card it enhances the level of happiness by a factor of three.",
+        "description": "Three maidens dance happily together celebrating a good harvest. Adorned in wreaths of flowers and fruits, they gaily raise their cups high and hold bouquets of even more flowers. This card is disgustingly happy. Good friends, good food, good times, effervescent youth, and not a care in the world. Even the sky is a nauseatingly pleasant shade of baby blue. The only way one could possibly make this card any happier would be to paint smiley faces all over it. This card is the product of earlier ef"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "If you draw this card reversed, simply place it back in the deck and draw another card. Obviously you have made a mistake. If you stubbornly refuse to admit making a mistake, look carefully at the surrounding and aspecting cards in relation to this card. When reversed, this card reveals a deep unhappiness brought on by solitude, loneliness, abandonment, ruined plans, disappointment, alcoholism, drug addiction, withdrawing from society, and the loss of friends. It can also indicate excess hedonis",
+        "description": "If you draw this card reversed, simply place it back in the deck and draw another card. Obviously you have made a mistake. If you stubbornly refuse to admit making a mistake, look carefully at the sur"
+      },
+      "imageFile": "38.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 39,
+      "name": "Four of Cups",
+      "nameKr": "컵 4",
+      "suit": "cups",
+      "rank": "4",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "Immovable object—Discontent (phase). Malcontent (person). It is hard to be this disappointed with life, but some people find ways to become so. This card represents resistance to any help, advice, compassion, charity, or compromise. This is more than unhappiness. This is a solid wall one builds up around themselves and shuts the world out. It is absolute refusal to listen to, interact with, or even recognize the efforts of others. The subtext of this card is that everything has been offered to the person this card represents. Therefore, this card is supremely dependent on associated cards for causality. One cannot reach this state of withdrawal without reason or circumstance. Look closely for these reasons before offering up solutions.",
+        "description": "A young man sits discontentedly under the shade of a tree on a pleasant day. Before him are three cups he can choose from, and if that weren’t enough, flying in the face of all probability, a fairy hand reaches out from a conveniently placed nearby cloud to offer him a “wish cup” of whatever he desires. Yet he resists, arms crossed in passive defiance. Or perhaps, like too many of us, he is merely asleep at the time, not realizing what wonders he is missing out on. Absolutely fixed. Our friend w"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "This is still not the most pleasant card, but it can indicate “coming out of one’s shell,” or a release from despondence and an ending of hiding away from the world.",
+        "description": "This is still not the most pleasant card, but it can indicate “coming out of one’s shell,” or a release from despondence and an ending of hiding away from the world."
+      },
+      "imageFile": "39.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 40,
+      "name": "Five of Cups",
+      "nameKr": "컵 5",
+      "suit": "cups",
+      "rank": "5",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "Sacrifice. This is a card of loss and of mourning. The loss itself is usually a very real and tangible thing (find what it is by looking at the aspecting and associated cards). The subtext of this card is hope, but respect the loss before dismissing it altogether. It is quite possible that your client is feeling very strongly about their loss and is not ready to be told that “two out of five cups are still standing.” In time the loss will be left behind, and the mess will be cleaned. Perhaps that time is now. Proceed gently here in your advice: This card is not a total loss (see 10 of Swords), but it does entail emotional despair, and a need for support and healing.",
+        "description": "A man stands mourning his fortunes. His focus is on the three spilled cups (an obvious loss), but he either ignores, or cannot see, the two behind him. His modest estate lies in the distance, but before he gets there he has a bridge to cross, one that will force him to leave the scene of his loss, and in doing so leave behind a piece of him: his now shattered plans and expectations of what was to be. This card is simultaneously dependent on and also a reaction to unfortunate events. As such, it "
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Recovering from distant wounds and pain. Can also indicate a recovering alcoholic. It’s time to forget the past and take positive action. A renewing of faith after hard times. Courage against loss. “Damn the torpedoes! Full speed ahead!!”",
+        "description": "Recovering from distant wounds and pain. Can also indicate a recovering alcoholic. It’s time to forget the past and take positive action. A renewing of faith after hard times. Courage against loss. “D"
+      },
+      "imageFile": "40.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 41,
+      "name": "Six of Cups",
+      "nameKr": "컵 6",
+      "suit": "cups",
+      "rank": "6",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "Much has been written about this card by various writers, and most of it is contradictory. The meaning of this card is the simple act of giving. This is one of the very few Tarot cards that illustrate children at all. Here, they are a visual stylus used to illustrate, or emphasize, the natural innocence of the act of giving without expectation, machination, or hidden inference. This is a card of simple kindness that is all too rare in this world. No fierce battles are fought this day. No glories are won or honors bestowed. Expect a gift from a friend, or perhaps you will be the giver of gifts. This card can also mean a reunion with old friends.",
+        "description": "A strangely dressed boy gives a cup filled with white, star-shaped flowers to a little girl. A guard makes his rounds off to the side. As far as these two are concerned, the world is at peace, home is at hand, and the sky is blue. What more could anyone ask for (except perhaps a nice cup of white, star-shaped flowers to brighten up one’s window sill)? This card is exactly what it looks like and very little more. It is a pleasant thing to experience, in a pleasant, secure, location, on a very ple"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Reversed, this card often indicates a longing for everything this card represents (upright). It also indicates stress, lack of close, deep relationships with considerate people, false friends, and a need for a deeper connection with “self.”",
+        "description": "Reversed, this card often indicates a longing for everything this card represents (upright). It also indicates stress, lack of close, deep relationships with considerate people, false friends, and a n"
+      },
+      "imageFile": "41.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 42,
+      "name": "Seven of Cups",
+      "nameKr": "컵 7",
+      "suit": "cups",
+      "rank": "7",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "You have opportunities and possibilities before you. The world is at your feet (whether you know it or not), and you may even be overwhelmed by the choices you face now. But a choice is called for, and the clock is ticking. This is a very fortunate card as you have options, but the pressure on you to choose and act may be overwhelming. Take a deep breath, do some quick research, decide what you want most from life right now, and “strike while the iron is (still) hot.” If you wait too long, the moment will pass, and the opportunity may be gone. “Choose; but choose wisely.”",
+        "description": "A man stands in silhouette in apparent surprise and apprehension at the abundance of choices presented to him. Before him are life’s great choices: beauty (spouse), mystery, knowledge, glory, power, fame, wealth. Each is a temptation, but the subtext of this card is that his focus will become his destiny (as in “you take the good with the bad”). It is not “a choice of one” he faces, but rather a choice of how focused will he be, and at what cost? This card is cardinal, as it requires us to make "
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Reversed, this card most often indicates indecision, or worse, being paralyzed by the inability to choose. It can also indicate a lack of focus or not knowing what one wants, and occasionally it will indicate being forced into a decision against one’s will. Aspecting cards will clearly illustrate what is happening.",
+        "description": "Reversed, this card most often indicates indecision, or worse, being paralyzed by the inability to choose. It can also indicate a lack of focus or not knowing what one wants, and occasionally it will "
+      },
+      "imageFile": "42.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 43,
+      "name": "Eight of Cups",
+      "nameKr": "컵 8",
+      "suit": "cups",
+      "rank": "8",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "“I’m taking my ball and I’m going home!” Sometimes it seems like anything has got to be better than what you have now, and you just get the urge to go find out. You may (from all outward appearances) have everything you want in life, but inside you feel the need to get away from everything and scrub your soul clean. This is different from the 4 of Cups, as it is a need for something different and taking action on it, versus shutting everyone out. This card indicates life changes: a move across state, country, or even continent, a relocation for a new job, a new career; but changes you make from a deep desire to get away from where you are now. Much clarity can be found by looking at aspecting cards. NOTE: If you really want to get snooty (although we prefer the term “precise”), this card i",
+        "description": "A man has placed his affairs in order and heads away to distant lands, and hopefully greener pastures. A note on the symbolism used in this card: Correct symbolism would show a full moon in the sky with a crescent moon reflected in the water, revealing his emotional desire for more from life (full moon) and the emptiness of his psyche’s current state (new moon). Nonetheless, his red cloak and boots illustrate he has clothed himself with purpose and resolve of action. He will not be coming back, "
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Inability to leave a bad situation. Imprisonment or a situational mess that needs to be resolved or “cleaned up” before you can make progress toward your goals.",
+        "description": "Inability to leave a bad situation. Imprisonment or a situational mess that needs to be resolved or “cleaned up” before you can make progress toward your goals."
+      },
+      "imageFile": "43.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 44,
+      "name": "Nine of Cups",
+      "nameKr": "컵 9",
+      "suit": "cups",
+      "rank": "9",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "This is the fabled “wish card.” It represents getting almost everything you want, “quitting the game on top,” and taking your winnings home. You win! This is you getting your wish, or living your passions (ideally this is what the 8 of Cups leads to), or just being supremely happy with what you have and not needing to toil or risk to gain anything more. This is an idealistic card of satiation and sensual pleasure, so it is a good idea to have a clear vision of your wish before you have it delivered.",
+        "description": "A well-fed man sits contentedly on his bench posing before his collection of nine cups. His future is assured and he knows it. There is more to be had from life, but he is smart enough to know when to get off of the merry-go-round and say, “I have my health and my wealth, and I am going to spend the rest of my days enjoying what I have. I leave the rest of life’s temptations and treasures to you.” He is downright smug in his striped shirt, fancy red cap (of pride), and folded arms. This card is "
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Some argue that “too much of a good thing can be bad.” If by that they mean too much indulgence in wine, food, luxury, and ease of life, they may be right; at least as far as this card offers in reverse. Beware of the “sugar crash” brought on by too much indulgence: unhappiness, and possible health issues. Also indicative of unfulfilled wishes and dreams.",
+        "description": "Some argue that “too much of a good thing can be bad.” If by that they mean too much indulgence in wine, food, luxury, and ease of life, they may be right; at least as far as this card offers in rever"
+      },
+      "imageFile": "44.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 45,
+      "name": "Ten of Cups",
+      "nameKr": "컵 10",
+      "suit": "cups",
+      "rank": "10",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "It’s hard to find a more pleasant scene than this one. While there are no extravagant displays of wealth found in other cards, or accolades tossed about, it is hard to beat lasting love, health, and genuine serenity. This card indicates a happy marriage, a happy home, a stable family, and good friends. Unlike the 9 of Cups, this “ending” is less sensually oriented, less personally indulgent, and more communally centered, representing a larger base of happiness, with a longer endurance.",
+        "description": "A man and his wife enjoy the splendor of their own personal rainbow high overhead their cottage estate. It looks as if our friends from the 2 of Cups actually made it work as a couple, and now they have two happy and healthy children to add to their family bliss. This is life as it should be. Life, love, and enough land to be able to enjoy the view. This is the end of the road along the path of Cups. It is the “happily ever after” card, and is one of the very best cards you can draw from the dec"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Broken dreams. Illusion of happiness. Disruption of the home. Loss of security or home ownership. Broken marriages and dysfunctional families.",
+        "description": "Broken dreams. Illusion of happiness. Disruption of the home. Loss of security or home ownership. Broken marriages and dysfunctional families."
+      },
+      "imageFile": "45.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 46,
+      "name": "Page of Cups",
+      "nameKr": "컵 페이지",
+      "suit": "cups",
+      "rank": "page",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "Keeping in mind that Pages have numerous meanings, this particular card can represent the birth of a baby girl, or a Cancer, Scorpio, or Pisces baby of either gender if aspected by other pregnancy cards, or in direct response to a pregnancy-related question. Otherwise, usual meanings include psychic flashes, artistic impulses, musical talent (or study), or even artistically gifted children. This Page also often indicates “good news” regarding some part of the reading. Due to the various possibilities all Pages can represent in a reading, it is best to read around them at first to glean what meaning this particular card will take.",
+        "description": "A stylish young man dressed primarily in blue and pink poses poetically as he listens to the fish who resides in his cup dispense valuable, but routine, wisdom. His casual, matter-of-fact demeanor at being lectured to by his scaly friend belies their long standing acquaintance, symbolizing his acceptance of the creative voices in his head occasionally presenting him with tidbits of life advice. This card is cardinal and indicative of the gentle whispers of creative inspiration and psychic awaren"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Lack of creativity, depression, anxiety, hearing voices in one’s head (not the “good kind”), possible autism, low birth weight, unhappy childhood (if representing the past). Also: drug overdoses, alcoholism, or conversely simple indigestion. This is why you really need to verify what you see in aspecting cards or by opening up cards before you start handing out advice.",
+        "description": "Lack of creativity, depression, anxiety, hearing voices in one’s head (not the “good kind”), possible autism, low birth weight, unhappy childhood (if representing the past). Also: drug overdoses, alco"
+      },
+      "imageFile": "46.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 47,
+      "name": "Knight of Cups",
+      "nameKr": "컵 나이트",
+      "suit": "cups",
+      "rank": "knight",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "This cards represents a young man with the ability to focus or obsess completely on a task at hand. In this card he is focusing on keeping his drive and emotions under control and contained. This card often refers to men who are either “emotionally unavailable” or simply cautious (as compared to the reckless Knight of Swords or the high-spirited Knight of Wands). This card also indicates an average or better intellect and strong musical or artistic talents. This card can represent entering into any relationship slowly and with caution.",
+        "description": "The Knight of Cups is in no rush today. He patiently approaches a wide river bisecting a stretch of desert, ignoring the heat of the day, his heavy armor, and his plodding pace. He reins his horse in tightly, to the point that the horse cannot even lift her head. His mount is not at all happy about this and shows it by laying her ears flat, kicking up her back leg mid-stride* and bobbing her head. But the Knight pays no attention to this, as all of his attention is firmly planted on keeping the "
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "Obsessive, jealous man, one ruled by his emotions. Generally unreliable and dishonest. If you are in doubt as to the character of this man, use much caution in dealing with him. * Horses walk with three of their hooves on the ground at all times. This knight is restraining his own biological urges even as his body tries to rebel from his obsessive self-control.",
+        "description": "Obsessive, jealous man, one ruled by his emotions. Generally unreliable and dishonest. If you are in doubt as to the character of this man, use much caution in dealing with him. * Horses walk with thr"
+      },
+      "imageFile": "47.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 48,
+      "name": "Queen of Cups",
+      "nameKr": "컵 퀸",
+      "suit": "cups",
+      "rank": "queen",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "This is the card of an emotionally sensitive woman, usually gifted either with some level of psychic abilities or a strong creative talent: artistic, musical, or design. Her primary traits are her imagination, sensitivity to the needs and desires of others, her caring nature, and love of animals or nature. Astrologically, use this card to represent Cancer, Scorpio, or Piscean women.",
+        "description": "A fair-haired woman sits on her seaside throne staring intently at an ornate cup of Eastern design, with handles topped with standing angels whose wings are arched far over their heads. Her cup is far more intricate than any other in the entire Tarot and illustrates the complexity of her emotions. She is examining herself at the moment, lost to the private realms of introspection. Her external nature is mutable and passive as she exists more within the confines of her mind than she does the phys"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "The Queen of Cups reversed indicates a woman whose emotions tend to escape her control on a regular basis. Additionally, her sanity may come into question. Potential for drug or alcohol abuse. Potentially jealous, unreliable, dishonest, and dangerous to herself and those around her. Approach with caution.",
+        "description": "The Queen of Cups reversed indicates a woman whose emotions tend to escape her control on a regular basis. Additionally, her sanity may come into question. Potential for drug or alcohol abuse. Potenti"
+      },
+      "imageFile": "48.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 49,
+      "name": "King of Cups",
+      "nameKr": "컵 킹",
+      "suit": "cups",
+      "rank": "king",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "사랑",
+          "감정",
+          "관계"
+        ],
+        "meaning": "Notice this man’s posture. This is a solid key to understanding him. Behind those eyes rage a storm of emotion, just like the fish behind him who finds that the entire sea can’t contain him. This man is restless and energized with emotion. Supportive man with good character. Highly creative and could well be psychically or artistically gifted. A passion burns deep within him, and whether he releases it or not is a measure of his character. Astrologically this card represents Cancer, Scorpio, or Pisces men.",
+        "description": "We find the King of Cups on his throne not on the shore, like his queen, but far out at sea. The waters out here are ever turbulent and toss ships around like toys, but not a drop stains the monarch’s robe. A fish jumps out of the water in the background, but his eyes are focused off in the distance and he sits on the edge of his throne at a pronounced angle, one foot forward, as if he’s ready to make a move at any moment. This man’s spirit is as cardinal and restless as the waters surrounding h"
+      },
+      "reversed": {
+        "keywords": [
+          "감정적 고통",
+          "관계 문제",
+          "실망"
+        ],
+        "meaning": "The King of Cups reversed is a shifty devil. His word is not to be trusted as his mind (and loyalties) changes with the tide of his emotions. Potential alcohol and drug abuse, also often emotionally unstable. Before having any serious dealings with this man, ensure that you have done some investigative research to determine the extent of his character flaws and how they affect you.",
+        "description": "The King of Cups reversed is a shifty devil. His word is not to be trusted as his mind (and loyalties) changes with the tide of his emotions. Potential alcohol and drug abuse, also often emotionally u"
+      },
+      "imageFile": "49.jpg",
+      "element": "water",
+      "planet": null
+    },
+    {
+      "id": 50,
+      "name": "Ace of Swords",
+      "nameKr": "소드 에이스",
+      "suit": "swords",
+      "rank": "ace",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "This card predicts victory against any obstacle and dominance over all adversaries through aggression. It’s hard to imagine any Tarot card being more phallic, or more metaphysically worshipful of the male anatomy. God himself decrees virility über alles here. This card indicates the rise of a new order, a new power, or leader, usually by force, or force of will. It also foretells the onset of conquest, challenges issued, macho displays of testosterone, and righteousness. This card further reveals a lack of fear that is downright religious in its zeal. This is a very powerful card to have on your side. As a “result,” it shows a decisive victory.",
+        "description": "The “hand of God” appears from a cloud, grasping a short, stout sword upright encircled at its tip by a gold crown of rulership draped with a frond of palm and a branch of olive. The lands below are desolate and barren, with harsh, jagged edges slicing angrily into the tepid sky. Six blazing yods of fire dance above the guard of the sword indicating righteous valor. This card inherits its cardinality from being an Ace, or the first of the suit, and the suit of Swords is representative of violenc"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Among professional readers this is quietly referred to as the real death card. This indicates sharp, sudden violence and defeat, usually accompanied by vehement rage. Before you accept this, be sure to verify any and all aspecting cards.",
+        "description": "Among professional readers this is quietly referred to as the real death card. This indicates sharp, sudden violence and defeat, usually accompanied by vehement rage. Before you accept this, be sure t"
+      },
+      "imageFile": "50.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 51,
+      "name": "Two of Swords",
+      "nameKr": "소드 2",
+      "suit": "swords",
+      "rank": "2",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "There is no winning here. The balance created is a thinly veiled stalemate where no meaningful action can take place. This card indicates an impasse. Without some sort of compromise there will be no progress, no real or lasting peace, and certainly no possibility of effective change. Everything is at a standstill. Additionally, parties involved are defensively engaged, unwilling or unable to let their defenses down and expose themselves emotionally or to any new ideology that will precipitate a breakthrough. This card foretells labor disputes or negotiations breaking down. In artistic or literary endeavors it indicates creative or writer’s block.",
+        "description": "A woman sits on a plain stone bench, blindfolded and holding two large swords crossed high over her shoulders. The image suggests the lady Justice. In fact, this woman is guarding the fertile, life-giving ocean behind her. Her blindfold reveals that she allows no one to pass; without prejudice. The crescent moon further illustrates the restriction of the feminine, and of the vast emotional storehouse held within. This is a highly defensive card and is of a fixed nature."
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Swords are sheathed and hands come out to grasp each other in agreement (in the ancient rite of checking to make certain that the other’s hands are indeed devoid of sharp objects as well). Settlements are reached, and action can proceed. The “creatively dead” come back to life as fresh new ideas come suddenly and in force. Breakthroughs in research. Critical problem solving. Ancient secrets are revealed.",
+        "description": "Swords are sheathed and hands come out to grasp each other in agreement (in the ancient rite of checking to make certain that the other’s hands are indeed devoid of sharp objects as well). Settlements"
+      },
+      "imageFile": "51.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 52,
+      "name": "Three of Swords",
+      "nameKr": "소드 3",
+      "suit": "swords",
+      "rank": "3",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "Ouch. Emotionally speaking: heartbreak, despair, despondence, depression, betrayal but by someone very close to you, abandonment, jealousy, infidelity. “Love triangle.” Verbally, literally: slander, libel, public humiliation, lawsuits, breach of contract, severe arguments with loved ones, rejection, treason, blasphemy. Physically: heart attacks, stroke, blood diseases. See a doctor—now.",
+        "description": "A healthy, plump red heart, full of zest for life and love for everyone and everything is viciously stabbed, not once, but three times (three being the number of repetition designed to illustrate that something is utterly and completely done and all duties fulfilled: as in the term threefold). And it’s raining. This attack on the defenseless innocent is cardinal (decisive and forceful) in nature and excessive due to the suit’s nature."
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Swift, healthy recovery after surgery, rectifications of injuries sustained, emotional healing after brutal heartache, restitutions offered under command of authority figures.",
+        "description": "Swift, healthy recovery after surgery, rectifications of injuries sustained, emotional healing after brutal heartache, restitutions offered under command of authority figures."
+      },
+      "imageFile": "52.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 53,
+      "name": "Four of Swords",
+      "nameKr": "소드 4",
+      "suit": "swords",
+      "rank": "4",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "This is not a card of death (there are several of those already—if this were yet another card of death, that would be redundant). This card symbolizes a few different but related fixed energy concepts. Most often it shows a rest after protracted effort: a retirement, or putting something to rest finally. It could also indicate rest after surgery. An alternative set of meaning is that of legacies, monuments, and honors bestowed rather belated. This card could indicate an inheritance if aspected by any of several cards. Physical locations indicated are quite naturally funeral parlors, crypts, and the morgue. Occasionally this will indicate actual funerals.",
+        "description": "A small chapel of a keep holds the final resting place of a valiant knight, presumably to whom the family is indebted. His effigy is carved in stone on the lid of his sarcophagus. A replica of his personal sword is carved on the side of his sarcophagus to serve him in the afterlife. Three swords are mounted on the wall above, next to a stained-glass window set high in the wall to bathe his monument in late-afternoon sun at the end of the day. This is a high honor bestowed only on a handful of me"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Dishonor. Someone is digging up the past, or things that are better left alone. No rest from prying eyes and searching hands. Lack of recognition for one’s efforts and deeds.",
+        "description": "Dishonor. Someone is digging up the past, or things that are better left alone. No rest from prying eyes and searching hands. Lack of recognition for one’s efforts and deeds."
+      },
+      "imageFile": "53.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 54,
+      "name": "Five of Swords",
+      "nameKr": "소드 5",
+      "suit": "swords",
+      "rank": "5",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "Open intimidation by a bully. Physical, mental, or verbal assault by someone who carries the need within themselves to dominate others in order to gain self-worth. This intimidation may be due to actual skill, or it may be empty words and posturing. What matters is the effect it has. Verify the actuality of the threat by opening up the card, and comparing this card to aspecting cards. Note the high winds blowing on the bully that do not affect any of his victims. The rage that blows the clouds across the sky feeds his ego but does nothing to soothe or invigor those who have given up their hope. This card can also show weakness among the masses (fear of a dictator or “strong leader”).",
+        "description": "A red-headed young man grins wickedly over his shoulder at his vanquished foes. He holds two swords he has recently added to his own collection, and two more swords lie carelessly dropped on the ground before him. The man is a petty tyrant, one of no consequence, except that individually he has intimidated, or beaten, others into submission. His will dominates theirs and thus everyone’s destiny changes. This act of bullying is cardinal, even though all action has ceased since any possible opposi"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "An end to subjugation, freedom from oppression. Conflict resolution comes after someone has the nerve to stand up to false authority. More than likely this will be a concerted (team) effort rather than any one individual (e.g., David vs. Goliath).",
+        "description": "An end to subjugation, freedom from oppression. Conflict resolution comes after someone has the nerve to stand up to false authority. More than likely this will be a concerted (team) effort rather tha"
+      },
+      "imageFile": "54.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 55,
+      "name": "Six of Swords",
+      "nameKr": "소드 6",
+      "suit": "swords",
+      "rank": "6",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "Journey by water. This could be a move or a vacation, but given the nature of the suit of Swords, this would more often point to an escape, or separation (from an abusive spouse for example), or a relocation from a poor economy or other harsh environments to safer locales. This card is similar to the 8 of Cups, except that (aside from a journey over water versus land) this image implies leaving in something of a hurry, and things left behind. In the 8 of Cups the man has set his affairs in order before skipping town. Here the woman did not even have time to pack. The symbolism of the mother and child alone also suggests leaving without a spouse. Special note: One half of the Laws of Attraction and Repulsion paradigm is “the Law of Repulsion.” This card exemplifies this energy in action as ",
+        "description": "A ferryman poles his skiff across a short distance of water. His cargo today is a woman and her child, leaving for the distant shore. The water on his right is choppy and agitated, but the waters on his left are placid all the way to his destination. The swords in the boat coupled with the woman’s hunched over, hooded countenance in contrast to the ferryman’s light clothing indicate her taking flight from oppression. Vaguely reminiscent of Charon of Greek mythology who ferried the recently dead "
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Journey or escape is delayed. No way out of the present situation. Being forced to endure current circumstances or make changes from within the system rather than running away. Possibly returning to the location of previous despair for whatever reasons. *(experienced) When you are working your Laws of Attraction and Repulsion exercises you will find your ability to manifest your desires quickly and easily strengthened by the act of experiencing versus a simple visualization. Anything “experience",
+        "description": "Journey or escape is delayed. No way out of the present situation. Being forced to endure current circumstances or make changes from within the system rather than running away. Possibly returning to t"
+      },
+      "imageFile": "55.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 56,
+      "name": "Seven of Swords",
+      "nameKr": "소드 7",
+      "suit": "swords",
+      "rank": "7",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "The easiest association is a thief in your camp. A false friend, backstabbing and machinations against you by cowards, outright theft, and general deception. Usually this is the case. In more esoteric readings this card will indicate some clever action taken to circumvent an existing situation for personal gain, or the act of using an oppressor’s own words or devices against them, and getting away with it. In any case this card almost always deals directly with the issues of deception and schemes or manipulation. Check all of the cards that aspect this, and compare them carefully to your client’s question to ascertain how this card fits in. Usually the answer will be fairly obvious.",
+        "description": "A thief cautiously makes his way from a war camp, taking the swords of his enemies from their armory, thus reducing their ability to do his people damage. As risky as this venture is, the warriors in the background do not seem to notice him. It looks as if the day is his after all. Please Note: Aleister Crowley labels this card (in his Thoth deck) “Futility,” which shifts the protagonist from the thief to the band of warriors in the background. This changes the implications of this card from act"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "The return of stolen merchandise or “borrowed” items, uncovering of plots and conspiracies, “the bad guy gets caught.” Conversely: unfounded accusations and paranoia.",
+        "description": "The return of stolen merchandise or “borrowed” items, uncovering of plots and conspiracies, “the bad guy gets caught.” Conversely: unfounded accusations and paranoia."
+      },
+      "imageFile": "56.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 57,
+      "name": "Eight of Swords",
+      "nameKr": "소드 8",
+      "suit": "swords",
+      "rank": "8",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "This card obviously illustrates being trapped in a situation. Incarceration, feeling emotionally closed off, creatively stifled, being held hostage by unseen forces (most often a mediocre job, few viable options for betterment, trapped in a bad marriage, etc.). But the thinly veiled underlying message behind this card is that all of these possibilities are merely the totality of a wall of stone that surrounds you at this time. To effect your escape from this imprisonment certain stones must be removed. To take down a wall quickly and easily only a few select stones need to be removed for the weight of the wall to collapse in on itself. You don’t have to take each and every stone down by hand. This card is a wake-up call to selectively remove things from your life that are collectively caus",
+        "description": "A young woman stands bound and blindfolded on a featureless flat plain. She is surrounded by eight swords and the wind slashes at her. In the background, set high on a rocky cliff, sits the fortress house of a powerful lord, perhaps her oppressor. She cannot escape, as she cannot see where to go. She cannot see because her eyes are covered tightly. She cannot remove her blindfold because her hands are tied. So even if she takes a few steps, she will most likely fall in the mud she stands in now."
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Escape or release from anything that has been holding you down so far. A chance for freedom is coming. Re-entering society.",
+        "description": "Escape or release from anything that has been holding you down so far. A chance for freedom is coming. Re-entering society."
+      },
+      "imageFile": "57.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 58,
+      "name": "Nine of Swords",
+      "nameKr": "소드 9",
+      "suit": "swords",
+      "rank": "9",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "Anxiety, concern over matters that seem to be out of your control, nightmares, and sleepless nights, or inability to sleep due to a physical condition. Overwhelming stress, despair over events passed or yet to come (compare this to your client’s question), emotional pain, even general paranoia. Worries may be unfounded. You will have to sort through the reading to find if this is the case or not. This is a card of culmination: these feelings did not simply appear from “nowhere.” Look for the root causes of this effect to locate the solution. Occasionally this card may even represent an uncomfortable bed or sleeping arrangement.",
+        "description": "A person sits up in bed, having woken from a horrible dream only to find that the bed they have made for themselves is steeped in violence and bloodshed. The blanket that covers them is decorated with roses intermittent with the symbols of the zodiac. Many swords loom overhead, but unlike Damocles, they do not point directly at her. The part of the bed frame that lies exposed shows a woodcut of one man running through another with a sword in the forest. As a reaction to events already passed, or"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Emotional release. Letting go of old pain and moving on. A release of tension that you can physically feel. You have endured great stresses and now the causes of those are being lifted. It’s time to forget the past and create new, better memories.",
+        "description": "Emotional release. Letting go of old pain and moving on. A release of tension that you can physically feel. You have endured great stresses and now the causes of those are being lifted. It’s time to f"
+      },
+      "imageFile": "58.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 59,
+      "name": "Ten of Swords",
+      "nameKr": "소드 10",
+      "suit": "swords",
+      "rank": "10",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "Live by the word, die by the sword. This is the undoing of a person. In extremely rare cases it may be the assault of an innocent; but as this is the summation of a life sworn to the fair and impartial virtues of the sword, the fait accompli visited upon this person is usually somehow apropos. This card is not a judgment on a person. It is an action befalling them, but this card rarely comes out when it has not been earned. In the case where it has honestly not been (earned karmically), this represents the analogous “death of a thousand cuts” or slightly less known, but more appropriate, “curse of inconvenience.” The old saying that starts with, “Ever have one of those days...?” This card indicates one of those days (or weeks, months...) where it just seems like any tiny thing that can be ",
+        "description": "Under a dismal coal-black sky of clouds, so thick they completely block out any sunshine or happiness, a man lies in his own blood, impaled by ten swords, all of which were conveniently delivered to his back. It seems that his past deeds have finally caught up to him. Too bad for his attackers; he left a clue to their identity. Something happened to this man. Something forceful, sudden, and with enough will and determination to change his life forever. Thus the energy of this card is unmistakabl"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Dodging the bullet. Danger passes so close by that you can feel the breeze of it passing. Making an “impossible” recovery from certain “death” (physical, financial, etc.). Resurrection.",
+        "description": "Dodging the bullet. Danger passes so close by that you can feel the breeze of it passing. Making an “impossible” recovery from certain “death” (physical, financial, etc.). Resurrection."
+      },
+      "imageFile": "59.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 60,
+      "name": "Page of Swords",
+      "nameKr": "소드 페이지",
+      "suit": "swords",
+      "rank": "page",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "As representative of a person, this card indicates a young boy or girl, or a student, either of the qualities of the suit of Swords (rash, loud, defensive, angry, potentially violent), or of the element of Air (intelligent, studious, [hyper] active, razor wit). If this card indicates a message, expect the wording to be sharp and pointed, like unpleasant news, or something delivered with disdain. When this card indicates a situation or a state of being, it reflects the act of taking the moral high ground, vehemently arguing a point, speaking from a platform (teaching, lecturing), or preaching. It does not indicate a “war of words,” but rather a spirited exchange (unless negatively aspected).",
+        "description": "A young squire stands on a small mound of “high ground” practicing with his sword on a windy day. He looks dead into the wind daring someone—anyone—to attack his position. His stance is relaxed and practiced, for he has undergone years of training to become proficient with his sword, and now he faces an imaginary foe for his next duel. His clothes are light and his hair is pulled back. He has come prepared for this day’s activities. This card is active and cardinal, but not overly powerful. It i"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "This implies a self-righteousness, or demeaning manner, poor communications, illchosen words leading to arguments, impatience, demotion, evisceration, irrationality, brat.",
+        "description": "This implies a self-righteousness, or demeaning manner, poor communications, illchosen words leading to arguments, impatience, demotion, evisceration, irrationality, brat."
+      },
+      "imageFile": "60.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 61,
+      "name": "Knight of Swords",
+      "nameKr": "소드 나이트",
+      "suit": "swords",
+      "rank": "knight",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "Unstoppable force. Young alpha male: active, decisive, even overbearing sometimes. Fearless. Natural born leader, or one thrust into it by circumstance. Either way though, things will happen “his way.” This also shows a man who is quick to act, and often just as quick to leave, as well. Even so, this person will almost always have a certain charisma that draws others to him like flies to honey. As a character or personality trait, this card reveals extreme courage in the face of danger, or the act of violently forcing others to conform to one’s personal beliefs. This can be either verbal or physical. Also: rushing heedlessly into action or rescue from peril.",
+        "description": "A young man pushes his horse hard across rough terrain. His welltrained horse is terrified, and is more concerned about what is on top of him than what lies before him. None of this matters to the myopic knight as he sees only his rage and desire for vengeance. His red cape of valor and helmet plume of righteous indignation broadcast his impatience to see justice (at the edge of a sword) done “now!” Even the sky is angry. This may be the angriest card of the Tarot. It is full of youthful impetuo"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Negative aspects of the above—bully, abusive, quick to anger, loud, someone with a large personal collection of weapons, instigator, loudmouth, impatience, lack of foresight, religious fervor, zealot.",
+        "description": "Negative aspects of the above—bully, abusive, quick to anger, loud, someone with a large personal collection of weapons, instigator, loudmouth, impatience, lack of foresight, religious fervor, zealot."
+      },
+      "imageFile": "61.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 62,
+      "name": "Queen of Swords",
+      "nameKr": "소드 퀸",
+      "suit": "swords",
+      "rank": "queen",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "This is a decisive woman, one who often gains enemies among others who do not understand her or cannot abide her stern ways. She is strong-willed and tends to keep her reasoning to herself, finding explanations of her behavior a nuisance, or even a question of her judgment, rather than a motivating factor in her underlings. She is highly intelligent, capable, and not overly swayed by emotional displays or tantrums. She represents the concept that real power lies behind the throne, as she is not always the one “officially” in charge, as that position comes with too much “shaking hands and kissing babies,” and not nearly enough actual hands-on management of affairs. Alternatively: If used to indicate “the element of Air,” this card will be either a Gemini, Libra, or an Aquarius woman, a doct",
+        "description": "The Queen of Swords sits on her carved throne, her sword held aloft in her right hand, ready for action, her left hand beckoning to one of her minions to step forward for “judgment.” She is not happy today. This is a woman who is used to having things brought to her, or to her attention, to be dealt with presently. She is resolute, fixed, and immovable once she sets her mind to something."
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "Insufferably evil or mean-spirited, selfish woman. Tyrannical boss, corrupt politician, or harsh mother figure. Black widow or femme fatale. Heartless, critical, stern, and unforgiving. Could indicate the downfall of an otherwise good woman. Open this card up if you need additional information before deciding firmly on a set meaning.",
+        "description": "Insufferably evil or mean-spirited, selfish woman. Tyrannical boss, corrupt politician, or harsh mother figure. Black widow or femme fatale. Heartless, critical, stern, and unforgiving. Could indicate"
+      },
+      "imageFile": "62.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 63,
+      "name": "King of Swords",
+      "nameKr": "소드 킹",
+      "suit": "swords",
+      "rank": "king",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "지성",
+          "소통",
+          "진실"
+        ],
+        "meaning": "A strong leader or an authority figure, such as a police officer, lawyer, judge, businessman, military officer, corporate executive, or perhaps a stern father. Alternatively a highly intelligent professional such as a doctor, professor, scientist, or writer. Personality usually runs on the conservative side: judicious, aggressive, ambitious, reserved, distrusting of unproven ideas or people. Astrologically: Gemini, Libra, or Aquarius, as these are all Air signs.",
+        "description": "The King of Swords stares right out of the card at us. He is the only one to do so. He is challenging us, inspecting us. While other kings focus on what is most important to them in their realms, this man stares us down as if we are a part of his realm. His sword is held at a relaxed angle slightly off of the vertical, indicating that he is not as uptight as his wife. He waits for us to make the next move. This energy of this card is fixed, not hesitant in any way, but unlike the Knight, the Kin"
+      },
+      "reversed": {
+        "keywords": [
+          "갈등",
+          "혼란",
+          "거짓말"
+        ],
+        "meaning": "A patient man with a cruel, calculating mind. Criminal mastermind or ringleader. Iron-fisted tyrant. Dictator.",
+        "description": "A patient man with a cruel, calculating mind. Criminal mastermind or ringleader. Iron-fisted tyrant. Dictator."
+      },
+      "imageFile": "63.jpg",
+      "element": "air",
+      "planet": null
+    },
+    {
+      "id": 64,
+      "name": "Ace of Coins",
+      "nameKr": "코인 에이스",
+      "suit": "pentacles",
+      "rank": "ace",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "This card signifies the beginning of any fortunate enterprise or undertaking. “If you do this ‘thing,’ you will get money.” This could mean buying a lottery ticket, marrying a wealthy spouse, earning a university degree, starting a new business, or taking a certain job. This card betokens new money, but to determine exactly where and how that money will appear, it helps to know the question asked, or have aspecting cards reveal to you their connection with this card. The timing on Aces is usually “imminent,” with occasional exception that will be obvious in your readings; but aspecting cards can and will narrow down the time frame in exact proportion to your familiarity with your cards and the exact specifics of the question asked.",
+        "description": "The “hand of God” appears from a small cloud, holding a large gold coin this time. Ignore the pentagram inscribed in it for the moment. The gold and the coin part are the primary Tarot symbolism. The addition of a pentagram to the coin in this image does not change the Tarot symbolism, nor does it imply that a Christian “God” is a heathen (pagan). The grounds below are lush and luxurious in contrast to other Aces, reinforcing the fertility of the earth and the raw power of Nature. The energy of "
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Delays in getting paid, missed opportunities, not getting the “big raise,” being written out of the inheritance, warning not to speculate or gamble, time to conserve your money.",
+        "description": "Delays in getting paid, missed opportunities, not getting the “big raise,” being written out of the inheritance, warning not to speculate or gamble, time to conserve your money."
+      },
+      "imageFile": "64.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 65,
+      "name": "Two of Coins",
+      "nameKr": "코인 2",
+      "suit": "pentacles",
+      "rank": "2",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "To truly get this card, simply angle it slightly to the right (clockwise) so that the boat is “level.” Now imagine that the boat is “steady,” and that it is the entire earth that is rolling around under this man’s feet as he tries to juggle, and dance, and keep his balance without dropping either of his coins or his ribbon. This card has one central meaning that can manifest in several different ways: At best it reveals clever accounting and tricky cash flow to keep everything afloat, even against the stormy seas of volatile economic times. On a slightly less happy note, it more often reveals a financial struggle, literally the “juggling of one’s finances” by borrowing money from this area of the budget to pay for that, and scrambling to make ends meet. In a worst case scenario, it is a di",
+        "description": "A man juggles his coins as a ship in the background is tossed about carelessly by the ever-changing sea. By the man’s garb and spritely dance, we can see that he is a professional; and he is not overly concerned, yet pensive, as if trying to find the perfect balance. The ribbon that surrounds his coins is reminiscent of the infinity symbol, suggesting that his is an ongoing struggle for balance through constant adjustment and analysis. The symbolism of this card strongly suggests ongoing emotion"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Finances in complete disarray, overspending, disorganization leads to chaos, instability, nervous breakdown, hypochondria, trying to fulfill too many obligations, physical accidents.",
+        "description": "Finances in complete disarray, overspending, disorganization leads to chaos, instability, nervous breakdown, hypochondria, trying to fulfill too many obligations, physical accidents."
+      },
+      "imageFile": "65.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 66,
+      "name": "Three of Coins",
+      "nameKr": "코인 3",
+      "suit": "pentacles",
+      "rank": "3",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "This is the card of the master; whether that is a master artist, swordsman, magus, stonecutter, or any other occupation, this card shows great skill and achievement. Compare this to the 8 of Coins, which shows us the apprentice. This may indicate the master himself, his masterpiece work, his studio, or even a visit from clients. Similarly it can represent artistic criticism, or a critique of one’s work, an employee evaluation, quality assessment, even a promotion or a raise. All of these possibilities are positive in nature. Look to the surrounding cards and the nature of the question to determine exactly what is at play here. This card can occasionally indicate unexpected assistance once you have earned your “sweat equity” (you have made your bandwagon and people want to jump on it, which",
+        "description": "A master stonemason is doing some finishing work on an intricate arch he has been commissioned to create for a local monastery. He is interrupted by a friar and a bureaucrat who happen to have an artistic rendition of what the arch “should” look like. They simply have some questions or concerns about the project. This can be seen as forcing him to stop work to answer some questions that could easily be addressed after the daylight hours have passed, since he can’t do this at night, or it may be "
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "The same basic principles for this card apply in reverse, except that they are far more negative. Now we see complaints about your work: unhappy bosses or clients, meddling in your affairs, or nagging and micro-managing to great detriment, even lack of recognition for your efforts. Conversely: shoddy workmanship.",
+        "description": "The same basic principles for this card apply in reverse, except that they are far more negative. Now we see complaints about your work: unhappy bosses or clients, meddling in your affairs, or nagging"
+      },
+      "imageFile": "66.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 67,
+      "name": "Four of Coins",
+      "nameKr": "코인 4",
+      "suit": "pentacles",
+      "rank": "4",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "의미를 추출할 수 없습니다.",
+        "description": "A merchant lord sits on a simple stone block throne in the middle of a thriving metropolis. This man is so cheap he doesn’t even have his throne embellished beyond the most basic indications that it is a platform. He tightly grips a coin in an “infinite loop,” and prevents two from escaping while boastfully proclaiming his sovereignty of wealth by wearing yet another coin on top of his self-stylized crown. This man needs to display his smallness as much as he needs to display his wealth and “pow"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Money works best when it flows. The idea of great wealth is not to stop the flow at all. It is the process of diverting some of the vast flow of golden coins to jingle your way as you create a small pool for them to circulate in before they flow out to parts unknown, preferably at a much slower rate than they come in. Having large amounts of money and not being able to spend it (on food, clothing, luxuries, or necessities) is not wealth. It is hell. This card presents us with the complete stoppa",
+        "description": "Money works best when it flows. The idea of great wealth is not to stop the flow at all. It is the process of diverting some of the vast flow of golden coins to jingle your way as you create a small p"
+      },
+      "imageFile": "67.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 68,
+      "name": "Five of Coins",
+      "nameKr": "코인 5",
+      "suit": "pentacles",
+      "rank": "5",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "This is a very unpleasant side of any society. This card addresses poverty, homelessness, lack of health and health insurance. This card signifies a lack of ability to pay one’s way in life after a tragedy. It shows the physical and emotional despair of ruin and the view of much of society that the poor are merely indolent, lazy, and deserve their fate. This card reflects more than a simple lack of funds. It reveals a lack of compassion, and a refusal to assist those in need, whether they brought their afflictions upon themselves, or they are victims of the abuse of others. All in all, this card is one of loss and despair. If this card comes up in a reading, look to aspecting cards to determine causes and solutions, or preventions.",
+        "description": "A destitute woman and a leper (notice the bell around his neck) struggle through a snowstorm at night just outside the foot-thick towering stone walls of a fortress-like church, whose magnificent buttressed stained-glass window radiates brightly with the proclamation that all is well in the “house of God.” No one comes out to greet them, no door stands open to welcome them in to the warmth and “compassion” of religion. This is the institution of religion failing, as it caters to its own wealth a"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Materialism to the point of spiritual starvation and disconnect. Wealth at the cost of lasting happiness and any of the virtues. False gods or spiritual leaders, cults.",
+        "description": "Materialism to the point of spiritual starvation and disconnect. Wealth at the cost of lasting happiness and any of the virtues. False gods or spiritual leaders, cults."
+      },
+      "imageFile": "68.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 69,
+      "name": "Six of Coins",
+      "nameKr": "코인 6",
+      "suit": "pentacles",
+      "rank": "6",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "This card illustrates a good person and a solid citizen. This person contributes more to society than their labors, or their DNA (offspring), and the taxes they pay for the public good. They take action on their own initiative to help those in need, create art and gardens for the public, clean up their neighborhoods, and in other ways make their area more livable. This card also refers to the act of charity, or selfless giving, stopping to help someone, or the giving and receiving of presents.",
+        "description": "A man holds a scale in his left, or sinister, hand while dispensing alms to a pair of men unable to earn their way through life at this time. He is bathed in red: his hat of decisive action, his robe of purpose, his collar of vociferous piety, his leggings of applied effort, and his belt of self-discipline. His own robe is threadbare and fraying from much use, and his tunic is as white and pure as his motives. He acts independently, without the need of praise, sanction, nor accolades of any temp"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Individual selfishness and narcissism. The person or action indicated are so concerned with their own well-being that they refuse to look out for the needs of others unless it benefits them directly somehow, usually insisting on payment before any services are rendered. That makes this the card of the scam; also blackmail, or extortion. If this card comes up reversed, look at aspecting cards to see if your client is being pressured or deceived.",
+        "description": "Individual selfishness and narcissism. The person or action indicated are so concerned with their own well-being that they refuse to look out for the needs of others unless it benefits them directly s"
+      },
+      "imageFile": "69.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 70,
+      "name": "Seven of Coins",
+      "nameKr": "코인 7",
+      "suit": "pentacles",
+      "rank": "7",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "No matter how good your situation may look to others, or even how comfortable and entertaining it may actually be, it is simply not for you. Your heart is not in your work. This card shows a boring job, or one that has become boring, if it ever had any gleam and luster to begin with. Daydreaming of distant places and adventures to be found there comes easily now, often to the cost of the quality of work you do right now. It’s time for a change. Time to leave the nest and take risks, see the world and sample its varied pleasures. This place has nothing left for you.",
+        "description": "A young man rests on his hoe, staring down despondently at the crop he has grown from seed. The harvest this year is beyond excellent. Large, full, rich leaves reveal the health of the stalk beneath, and bright golden disks grow in tight clusters, but for all of that the results seem disappointing to him, as if he dreams of life as an acrobat rather than a farmer, even a farmer of gold coins. This card is proof that if money really did grow on trees, someone would still wish they were strawberri"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Reversed, this card indicates that you are missing the point—you have something worthwhile, something you will miss dearly if you let it die off, or walk away from. Before you neglect what you have into obscurity, you should take some time and think very seriously and carefully about your next move.",
+        "description": "Reversed, this card indicates that you are missing the point—you have something worthwhile, something you will miss dearly if you let it die off, or walk away from. Before you neglect what you have in"
+      },
+      "imageFile": "70.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 71,
+      "name": "Eight of Coins",
+      "nameKr": "코인 8",
+      "suit": "pentacles",
+      "rank": "8",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "“Work, work, work.” This card can mean many things. At first blush, it reveals an apprentice, or one whose level of skill is worthy of employment, but not such that they are an artiste, or a master, capable of opening up their own shop. That leads this card to be an indicator of a job, or simple gainful employment, even if that job lasts twenty years. The card also indicates an artisan, or craftsman who specializes in a certain area of service or manufacture. In this case, the card shows us a physical artist, a true artisan, or a skilled specialist in physical matters (e.g., construction, auto mechanic, engineer, etc.). Finally, the alternate aspect of the apprentice is one who studies, meaning a student of a vocational school, or the act of attending “adult education” to better oneself. L",
+        "description": "A young man carefully taps a large pentagram into a gold coin. He seems to enjoy his job, but his focus is on his precision, on the task at hand. Mounted on the wall next to him are several finished coins, and others rest on the ground next to him. He wears the apron of a trained apprentice, revealing his basic skill in workmanship. His workspace is free of clutter, reducing any distractions from his work. His labors are regular and repetitive, making this a fixed card."
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Sloth, laziness, inattentiveness at school, not applying oneself, being late for work, unreliable, unemployment.",
+        "description": "Sloth, laziness, inattentiveness at school, not applying oneself, being late for work, unreliable, unemployment."
+      },
+      "imageFile": "71.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 72,
+      "name": "Nine of Coins",
+      "nameKr": "코인 9",
+      "suit": "pentacles",
+      "rank": "9",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "This is a kept woman. Of course, this card is applicable to either gender, and people of any age, as long as they are among the idle rich, or merely serenely content with the wealth they do possess, their passions, and their ease of life. This extremely fortunate card betokens material success to the point of leisurely inactivity. But this is more than simply having money. This card is about enjoying your passions in life, and having an ease of existence so that you can chase your dreams, and not have to put up with the drudgery of everyday life that the rest of the population of Earth has to contend with, no matter how wealthy they are. This is life as a permanent vacation, no matter what your status otherwise.",
+        "description": "A finely dressed woman lounges in the vineyard of her estate, surrounded by ripe, succulent fruits, more wealth than she can even care about, and her pet falcon. She wants for nothing. Wealth to her is nothing more than an assumed way of life. There is no other existence she can imagine, so she doesn’t waste her valuable time dreaming up the impossible, or the nonsensical. She has her passions (falconing) and her bountiful garden of grapes that is the envy of everyone she knows. What else could "
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "When this card is reversed, it shows what we are missing out on. “All work and no play...” leads to a life of work, and possibly wealth and power, but to what end?",
+        "description": "When this card is reversed, it shows what we are missing out on. “All work and no play...” leads to a life of work, and possibly wealth and power, but to what end?"
+      },
+      "imageFile": "72.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 73,
+      "name": "Ten of Coins",
+      "nameKr": "코인 10",
+      "suit": "pentacles",
+      "rank": "10",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "Old money. This is the estate card. This is not indicative of winning the lottery, or doing well at your job. This card means wealth and power that most people never visit, much less possess. The ease and comfort with wealth and power shown in this card come only from being raised in wealth, or adapting to it so completely that it becomes like a second skin. Thus, this card best reflects a very healthy pension or a retirement in style (and then some) after a lifetime of investing one’s time and energy toward this end goal. As a location, or an entity, this can indicate any powerful family (industrial, political, or royalty), a museum, a wealthy investor for your project, or a large and luxurious house. As a result, it can be a bank loan or other big-project financial action. If you wanted ",
+        "description": "An old man lounges in the garden of his estate in a large village. His greyhounds attend him, even as a playful young girl grabs at one’s tail. Her mother chats happily with a young man armed with a spear in a wide stone arch which is, in turn, decorated with shields emblazoned with the Coats of Arms of powerful families, and a massive tapestry illustrated with a skillfully woven scene of a mountainous fortress. Life is easy, gay, and relaxed here. This is the card of generations of wealth compi"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Loss of economic stability, the fall of a great house of power, infighting among insiders (in a family or business) that threatens to tear an empire apart. Living so far beyond one’s means to keep up appearances that one’s foundation is shaky.",
+        "description": "Loss of economic stability, the fall of a great house of power, infighting among insiders (in a family or business) that threatens to tear an empire apart. Living so far beyond one’s means to keep up "
+      },
+      "imageFile": "73.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 74,
+      "name": "Page of Coins",
+      "nameKr": "코인 페이지",
+      "suit": "pentacles",
+      "rank": "page",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "Pages are meant to illustrate many things. As a person, it can show a young boy or girl of the Earth signs (Taurus, Virgo, or Capricorn). It can also show someone one who is deeply in love with money and luxuries. As a message, it bears small tidings of money, usually news of a raise, a bonus, a gift, or a refund. But it can also indicate the act of study (or economics, accounting, banking, or any of the financial sciences), or even tuition money for school, as Pages can represent students learning their trade. Compare this card directly to the question at hand, and look for aspecting cards to indicate exactly what the message is here, as all of the Page cards are highly dependent on other cards to give them clarity of meaning.",
+        "description": "A young squire stands in a lush, green meadow overlooking carefully worked farm lands. The fertile soil is rich, moist, and capable of providing generations of various crops if tended with care. From all accounts, that is the course of action. The squire here represents the newest generation of estate lords who are custodians of this area, and his poetic stance and worshipful gaze at the coin he holds with absolute reverence indicate his fascination with his lot in life. His reverence for his tr"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "(Minor) bad news financially or small loss of income or savings. One who spends far too easily with no appreciation for the efforts required to earn money. Not getting paid.",
+        "description": "(Minor) bad news financially or small loss of income or savings. One who spends far too easily with no appreciation for the efforts required to earn money. Not getting paid."
+      },
+      "imageFile": "74.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 75,
+      "name": "Knight of Coins",
+      "nameKr": "코인 나이트",
+      "suit": "pentacles",
+      "rank": "knight",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "Unlike other Knights whose testosterone levels force them to initiate action, this man’s same biochemicals create a smugness and bravado that challenges others to bend to his will by taking action that he finds amusing, or acceptable. His confidence is rooted in his possessions, his inherent obstinance, and his readiness to wait out any situation until he finds circumstances to his liking. This card shows a stubbornness in people, or refusal to budge, or compromise that is both the hallmark of great leadership and the cause of many of society’s ills. This card allows no compromise. When you see this card, the person it represents is saying, “Come and get it. I dare you.” But the subtle inflection underneath is that things will progress at their comfort level, and only in the manner they de",
+        "description": "A young knight sits comfortably on his steed, scowling at something off in the distance. His mount’s reins are pulled tightly, holding his horse in place with his left hand. His right holds up a coin, as if to show his possession of it to whomever or whatever he is glaring at disdainfully. He is sending a strong message. He is prepared to ride long distances and fight toe-to-toe for his cause, but by reining his horse in, refusing to advance a step, he is demanding his audience to approach him o"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "Complete lack of self-control. Weakness. Inability to stand up for oneself. Foolishness with money and resources.",
+        "description": "Complete lack of self-control. Weakness. Inability to stand up for oneself. Foolishness with money and resources."
+      },
+      "imageFile": "75.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 76,
+      "name": "Queen of Coins",
+      "nameKr": "코인 퀸",
+      "suit": "pentacles",
+      "rank": "queen",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "Folklore tells us that the king and the land are one. This is no less true of the ruling queen. The woman in this card is no dainty waif who happened upon a wealthy prince. She is the embodiment of the earth and the essence of fertility. This card can be used astrologically (Taurus, Virgo, Capricorn), or it can represent a woman of patience and common sense, one who is attuned with nature, a florist or farmer, animal-rights activist, a warm, caring, maternal, authority figure, nurse, doctor, teacher, or any wealthy woman over 30.",
+        "description": "Our Queen sits comfortably on her elaborately carved throne, gazing down at her exceptionally large gold coin, enjoying the weight and feel of it. She is surrounded on all sides by lush flowers and vines; life explodes around her in full bloom, and even a rabbit (symbol of fertility of womb and her land) scampers by happily. For all of this, however, her communion with her coin is so powerfully hypnotic that she is lost to the rest of the world. Her entire essence is drinking in its virtues thro"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "As character traits—Selfish woman, impatient and demanding, elitist; scornful of others, especially those she considers inferiors. Shamelessly materialistic. Evil boss. Gold digger. Alternately, as an effect or event: a loss of social or financial status, “falling from grace,” feminine health issues (see a doctor now), abandonment by husband, loss of stability, “having your world turned upside down.”",
+        "description": "As character traits—Selfish woman, impatient and demanding, elitist; scornful of others, especially those she considers inferiors. Shamelessly materialistic. Evil boss. Gold digger. Alternately, as an"
+      },
+      "imageFile": "76.jpg",
+      "element": "earth",
+      "planet": null
+    },
+    {
+      "id": 77,
+      "name": "King of Coins",
+      "nameKr": "코인 킹",
+      "suit": "pentacles",
+      "rank": "king",
+      "arcana": "minor",
+      "upright": {
+        "keywords": [
+          "물질",
+          "안정",
+          "성공"
+        ],
+        "meaning": "Any wealthy man. Also: Men of power, prestige, authority, confident, or stubborn, especially men associated with land and real estate. Astrologically: Taurus, Virgo, Capricorn. This card most often indicates corporate executives, businessmen, investors, kings, and men directly involved with finance and the details of funding projects. As an effect or a result: more than simple success in business, absolute dominance of your niche market. Wise counsel from experienced men who want to see you succeed. Patience is needed in matters of finance at this time. This also indicates the wheels of industry moving, but the wheels are large and elephantine, moving slowly due to the massive amount of resources and human factors that need to be brought in line.",
+        "description": "“It’s good to be the king!” The smugness of the Knight of Coins is only outclassed by the man who invented smugness. Truly, the only thing better than being young, handsome, and wealthy (for a man) is to be young, handsome, wealthy, and in charge. The man before you has no problems with his wealth; no problems with how he got his money, and no problems with how he uses it to get what he wants. This card shows us that wealth and power may not be everything in life, but that they sure go a long wa"
+      },
+      "reversed": {
+        "keywords": [
+          "재정 문제",
+          "불안정",
+          "탐욕"
+        ],
+        "meaning": "A wasteful, small-minded, arrogant man. “Small” man’s syndrome. Petulance. Stubborn, rude, elitist, tyrannical, or bullying cretin. Alternately: loss of power, status, money, health.",
+        "description": "A wasteful, small-minded, arrogant man. “Small” man’s syndrome. Petulance. Stubborn, rude, elitist, tyrannical, or bullying cretin. Alternately: loss of power, status, money, health."
+      },
+      "imageFile": "77.jpg",
+      "element": "earth",
+      "planet": null
+    }
+  ]
+}

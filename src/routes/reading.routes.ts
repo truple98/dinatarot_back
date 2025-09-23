@@ -4,6 +4,6 @@ import { ReadingController } from '../controllers/reading.controller';
 const router = express.Router();
 const readingController = new ReadingController();
 
-router.post('/generate', (req, res) => readingController.generateReading(req, res));
+router.post('/interpret', (req, res) => readingController.interpretTarot(req, res));
 
 export default router;

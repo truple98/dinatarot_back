@@ -18,12 +18,18 @@ export class RAGService {
   private embeddingsPath = path.join(__dirname, '../../data/embeddings/embeddings.json');
   private embeddings: EmbeddingData[] = [];
 
-  private openai: OpenAI;
+  private openai: OpenAI | null = null;
 
-  constructor() {
-    this.openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY
-    });
+  private getOpenAI(): OpenAI {
+    if (!this.openai) {
+      if (!process.env.OPENAI_API_KEY) {
+        throw new Error('OPENAI_API_KEY 환경변수가 설정되지 않았다요!');
+      }
+      this.openai = new OpenAI({
+        apiKey: process.env.OPENAI_API_KEY
+      });
+    }
+    return this.openai;
   }
 
 
@@ -73,7 +79,8 @@ export class RAGService {
 
   async createEmbedding(text: string): Promise<number[]> {
     try {
-      const response = await this.openai.embeddings.create({
+      const openai = this.getOpenAI();
+      const response = await openai.embeddings.create({
         model: 'text-embedding-3-small',
         input: text,
         encoding_format: 'float',
