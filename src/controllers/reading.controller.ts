@@ -92,23 +92,12 @@ export class ReadingController {
         };
       });
 
-      const cardNames = drawnCardsWithDetails.map(dc => dc.card.nameKr);
-      let relevantContext = '';
-
-      try {
-        relevantContext = await this.ragService.getRelevantContext(userConcern, cardNames);
-      } catch (error) {
-        console.error('RAG 컨텍스트 생성 실패, 기본 해석으로 진행:', error);
-        relevantContext = '';
-      }
-
 
       const interpretation = await this.llmService.generateTarotReading(
         userName,
         userConcern,
         drawnCardsWithDetails,
-        spreadType,
-        relevantContext
+        spreadType
       );
 
       const response: InterpretResponse = {
