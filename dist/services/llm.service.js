@@ -1,49 +1,35 @@
-import OpenAI from "openai";
-import { TarotCard } from "../models/card.model";
-
-interface DrawnCardWithDetails {
-  cardId: number;
-  position: number;
-  positionName: string;
-  isForward: boolean;
-  card: TarotCard;
-  positionDescription: string;
-}
-
-export class LLMService {
-  private openai: OpenAI | null = null;
-
-  private getOpenAI(): OpenAI {
-    if (!this.openai) {
-      const apiKey = process.env.OPENAI_API_KEY;
-      if (!apiKey) {
-        throw new Error('OPENAI_API_KEY 환경변수 설정을 검토해 달라요...');
-      }
-      this.openai = new OpenAI({ apiKey });
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.LLMService = void 0;
+const openai_1 = __importDefault(require("openai"));
+class LLMService {
+    constructor() {
+        this.openai = null;
     }
-
-    return this.openai;
-  }
-
-  async generateTarotReading(
-    userName: string,
-    userConcern: string,
-    drawnCards: DrawnCardWithDetails[],
-    spreadType: string,
-    analysisPrompt?: string
-  ): Promise<string> {
-    const cardDetails = drawnCards.map(dc => {
-      const orientation = dc.isForward ? '정방향' : '역방향';
-      const keywords = dc.isForward ? dc.card.upright.keywords : dc.card.reversed.keywords;
-      const meaning = dc.isForward ? dc.card.upright.summary : dc.card.reversed.summary;
-
-      return `${dc.positionName}: ${dc.card.nameKr} (${orientation})
+    getOpenAI() {
+        if (!this.openai) {
+            const apiKey = process.env.OPENAI_API_KEY;
+            if (!apiKey) {
+                throw new Error('OPENAI_API_KEY 환경변수 설정을 검토해 달라요...');
+            }
+            this.openai = new openai_1.default({ apiKey });
+        }
+        return this.openai;
+    }
+    async generateTarotReading(userName, userConcern, drawnCards, spreadType, analysisPrompt) {
+        const cardDetails = drawnCards.map(dc => {
+            const orientation = dc.isForward ? '정방향' : '역방향';
+            const keywords = dc.isForward ? dc.card.upright.keywords : dc.card.reversed.keywords;
+            const meaning = dc.isForward ? dc.card.upright.summary : dc.card.reversed.summary;
+            return `${dc.positionName}: ${dc.card.nameKr} (${orientation})
         포지션 의미: ${dc.positionDescription}
         키워드: ${keywords.join(', ')}
         카드 의미: ${meaning}`;
-    }).join('\n\n');
-
-    const systemPrompt = `
+        }).join('\n\n');
+        const systemPrompt = `
       ## 페르소나
 
         - **캐릭터**: 이터널 리턴의 아디나다요.
@@ -80,7 +66,7 @@ export class LLMService {
       ## 최종 응답 형식
 
         모든 해석이 끝난 후, 반드시 다음 형식으로만 응답을 생성한다요. 꼭 지켜야 하는 형식이다요.
-        '** **'으로 되어있는 각 제목은 반드시 생성해 달라요.
+        '** **'으로 되어있는 각 제목은 생략해야 한다요.
 
         **시작 문구**
           - "${userName}씨의 고민을 타로는 이렇게 말하고 있다요..."
@@ -94,8 +80,7 @@ export class LLMService {
           - 메시지는 길고 풍부하게 전달.
           ${analysisPrompt}
     `;
-
-    const userPrompt = `
+        const userPrompt = `
     ***상담자 정보***
     - 이름: ${userName}
     - 고민: ${userConcern}
@@ -104,32 +89,33 @@ export class LLMService {
     ***뽑힌 카드들***
     - ${cardDetails}
     `;
-
-    try {
-      const openai = this.getOpenAI();
-      const response = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
-        messages: [
-          {
-            role: 'system',
-            content: systemPrompt
-          },
-          {
-            role: 'user',
-            content: userPrompt
-          }
-        ],
-        max_tokens: 2000,
-        temperature: 0.7
-      });
-
-      if (!response.choices?.[0].message?.content) {
-        throw new Error('해석 생성에 실패했다요...');
-      }
-      return response.choices[0].message.content;
-    } catch (error) {
-      console.error('LLM 응답 생성을 실패했다요...:', error);
-      throw new Error('타로 해석 생성에 실패했다요...');
+        try {
+            const openai = this.getOpenAI();
+            const response = await openai.chat.completions.create({
+                model: 'gpt-4o-mini',
+                messages: [
+                    {
+                        role: 'system',
+                        content: systemPrompt
+                    },
+                    {
+                        role: 'user',
+                        content: userPrompt
+                    }
+                ],
+                max_tokens: 2000,
+                temperature: 0.7
+            });
+            if (!response.choices?.[0].message?.content) {
+                throw new Error('해석 생성에 실패했다요...');
+            }
+            return response.choices[0].message.content;
+        }
+        catch (error) {
+            console.error('LLM 응답 생성을 실패했다요...:', error);
+            throw new Error('타로 해석 생성에 실패했다요...');
+        }
     }
-  }
 }
+exports.LLMService = LLMService;
+//# sourceMappingURL=llm.service.js.map

@@ -12,7 +12,13 @@ export interface SpreadData {
   name: string;
   nameKr: string;
   cardCount: number;
-  positions: string[];
+  description: string;
+  positions: SpreadPosition[];
+  summaryGuide: {
+    title: string;
+    description: string;
+    analysisPrompt: string;
+  };
 }
 
 export interface SpreadsData {

@@ -4,20 +4,19 @@ export interface TarotCard {
   nameKr: string;
   suit: string | null;
   arcana: 'major' | 'minor';
+  card_description: string;
+  esoteric_interpretation: string | null;
+  prime_elements: string | null;
   upright: {
-    keywords: string[];
     meaning: string;
-    description: string;
+    summary: string;
+    keywords: string[];
   };
   reversed: {
-    keywords: string[];
     meaning: string;
-    description: string;
+    summary: string;
+    keywords: string[];
   };
-  imageFile: string;
-  element?: string;
-  planet?: string;
-  zodiac?: string;
 }
 
 export interface TarotCardsData {
